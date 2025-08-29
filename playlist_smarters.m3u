@@ -198,10 +198,8 @@ http://cdn.catiacast.video/abr/78054972db7708422595bc96c6e024ac/playlist.m3u8
 #EXTINF:-1, Al Arabia
 https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/playlist.m3u8
 #EXTM3U
-
-#EXTINF:-1 tvg-name="ASO SPORT" tvg-logo="https://karwan.tv/wp-content/uploads/aso-sport-528x297.png" group-title="SPORTS"
+#EXTINF:-1 tvg-logo="https://karwan.tv/wp-content/uploads/aso-sport-528x297.png",ASO SPORT
 http://xxtv.me:8080/live/RedouanPalazzoloamico/GJdtI1f4R6/358232.m3u8
-
 #EXTINF:-1 tvg-name="ALWAN SPORT 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxgYHgSM9PlIv0S7xSlYJ9vWacEfgEG3aVBQ&s" group-title="SPORTS"
 http://soft24f.net/live/6872c3410e8cibopro/22bcpapc/237017.ts
 
