@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://karwan.tv/wp-content/uploads/mmn-tv-528x297.png", MMN Documentary
 http://mmn.mypsx.net:1935/live/mmnhddocumentary/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://d2wqffb2bc8st5.cloudfront.net/images/Feb-2024/1708947763k24_logo_default.jpg", K24 HD
+#EXTINF:-1 tvg-logo="https://d2wqffb2bc8st5.cloudfront.net/images/Aug-2024/1722948968Component%2094%20%E2%80%93%201.png", K24 HD
 https://d1x82nydcxndze.cloudfront.net/live/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhqLYYU9x7_AEvq2vXe6qhmXeH0ZIckG4rrg&s", PAYAM HD
 https://media2.streambrothers.com:1936/8218/8218/kurdtv1.m3u8
