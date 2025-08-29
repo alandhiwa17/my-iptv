@@ -13,8 +13,8 @@ http://mmn.mypsx.net:1935/live/mmnhdquran/playlist.m3u8
 https://live.channel8.com/Channel8-Kurdish/index.m3u8
 #EXTINF:-1 tvg-logo="https://karwan.tv/wp-content/uploads/barin-family.png", BNAR FAMILY HD
 http://baskhd.ddns.net:40/live/bnar4k/mono.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoFxqe4BzXZJxiu0WhvvGQogAd-lUPI6fUgg&s", HALABJA TV
-http://halabjatv.ddns.net:40/live/halabjatv/playlist.m3u8
+#EXTINF:-1 tvg-logo="blob:https://web.telegram.org/b2bb7c65-72e8-4f5c-8926-11a1dc6ead8b", SOZ TV
+https://live20.bozztv.com/giatv/giatv-sozetv/sozetv/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/uln6J9QcaUT4QVJcxBxJdlXKCYCBo9kclMpvNn1gQEh1oWv5w4qcik9Fb_FdS7aAkjCWERTg=s900-c-k-c0x00ffffff-no-rj", KHAK Tv
 http://bblserver.ddns.net:1935/stream/khakhd/kurdtv1.m3u8
 #EXTINF:-1 tvg-logo="https://karwan.tv/wp-content/uploads/mmn-tv-528x297.png", MMN SHOW HD
