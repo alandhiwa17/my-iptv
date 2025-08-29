@@ -5,11 +5,11 @@ http://mmn.mypsx.net:1935/live/mmnhddocumentary/playlist.m3u8
 https://d1x82nydcxndze.cloudfront.net/live/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhqLYYU9x7_AEvq2vXe6qhmXeH0ZIckG4rrg&s", PAYAM HD
 https://media2.streambrothers.com:1936/8218/8218/kurdtv1.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Afarin_logo.png", AFARIN TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Afarin_logo.png", AFARIN TV1
 https://yt3.googleusercontent.com/ytc/AIdro_nOSnJKhTFhEpxeM5uom0ruOY9oySPvgjBdBtYgiayX-Ro=s900-c-k-c0x00ffffff-no-rj
 #EXTINF:-1 tvg-logo="https://karwan.tv/wp-content/uploads/mmn-tv-528x297.png", MMN QURAN HD
 http://mmn.mypsx.net:1935/live/mmnhdquran/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/uhDQnyiHRHuhEfK6ZhGNlbYAmjGIU8Siq1XQ_fnuhbmpUY5fY_dctRF4x1b3RVXGDkYz", CHANNEL 8 HD1
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/c6KAkrd7c3v7VRCKtnHmYGuIickgrCkrxM4VcrqCGnljrF6bk5ExX53lcVQvunn3W-tVf-cm=s900-c-k-c0x00ffffff-no-rj", CHANNEL 8 HD
 https://live.channel8.com/Channel8-Kurdish/index.m3u8
 #EXTINF:-1 tvg-logo="https://karwan.tv/wp-content/uploads/barin-family.png", BNAR FAMILY HD
 http://baskhd.ddns.net:40/live/bnar4k/mono.m3u8
