@@ -90,7 +90,7 @@ http://app-plus.live:80/4qoq1y7yu4/j4wtif2te5/312746
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-ExUfbd_5TUV_FIr1Jl3jOFu0OwgwBm8u-A&s" group-title="", Mihrab FM
 http://bblserver.ddns.net:1935/live/mihrabfm/chunklist_w685471767.m3u8
 #EXTINF:-1 tvg-logo="https://karwan.tv/wp-content/uploads/ava-media.jpg" group-title="", ava
-http://iptv.nextnet.krd:25461/12920/4516/117
+http://new.tryv24.shop:80/Nboxtv_857858/KsAKkuKx/129968
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTg6-Xo31vbQRpUPv6v23iGqpo-aAw_toTY5A&s" group-title="", Roya
 https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/documentaries/playlist.m3u8?st=X3_JAEd_gNhRM4-0Lc6Fng&e=1753754606
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRc1-SdoiVifuspQkaNIlkpGHHPeLyzvr_9Wg&s" group-title="", Esra HD
@@ -438,5 +438,102 @@ http://new.tryv24.shop:80/Nboxtv_857858/KsAKkuKx/312686
 #EXTINF:-1 group-title="Sport VIP",|KRD| 4SPORT HD
 http://app-plus.live:80/4qoq1y7yu4/j4wtif2te5/689917
 
-#EXTINF:-1 group-title="Sport VIP",|KRD| SEE SPORT 3
-http://app-plus.live:80/4qoq1y7yu4/j4wtif2te5/689915
+
+#EXTINF:-1 group-title="Bein Sport 4k",beIN SPORTS NEWS UHD
+http://fuego-iptv.net/play/live.php?mac=00:1A:79:4E:54:58&stream=22198&extension=ts
+
+#EXTINF:-1 group-title="Bein Sport 4k",beIN SPORTS GLOBAL UHD
+http://fuego-iptv.net/play/live.php?mac=00:1A:79:4E:54:58&stream=22199&extension=ts
+
+#EXTINF:-1 group-title="Bein Sport 4k",beIN Sports 1 4K
+http://fuego-iptv.net/play/live.php?mac=00:1A:79:4E:54:58&stream=114053&extension=ts
+
+#EXTINF:-1 group-title="Bein Sport 4k",beIN Sports 1 UHD
+http://fuego-iptv.net/play/live.php?mac=00:1A:79:4E:54:58&stream=3854&extension=ts
+
+#EXTINF:-1 group-title="Bein Sport 4k",beIN Sports 1 Nexus 4K
+http://fuego-iptv.net/play/live.php?mac=00:1A:79:4E:54:58&stream=1269943&extension=ts
+
+#EXTINF:-1 group-title="Bein Sport 4k",beIN Sports 2 4K
+http://fuego-iptv.net/play/live.php?mac=00:1A:79:4E:54:58&stream=114052&extension=ts
+
+#EXTINF:-1 group-title="Bein Sport 4k",beIN Sports 2 UHD
+http://fuego-iptv.net/play/live.php?mac=00:1A:79:4E:54:58&stream=3853&extension=ts
+
+#EXTINF:-1 group-title="Bein Sport 4k",beIN Sports 2 Nexus 4K
+http://fuego-iptv.net/play/live.php?mac=00:1A:79:4E:54:58&stream=1269944&extension=ts
+
+#EXTINF:-1 group-title="Bein Sport 4k",beIN Sports 3 4K
+http://fuego-iptv.net/play/live.php?mac=00:1A:79:4E:54:58&stream=114050&extension=ts
+
+#EXTINF:-1 group-title="Bein Sport 4k",beIN Sports 3 UHD
+http://fuego-iptv.net/play/live.php?mac=00:1A:79:4E:54:58&stream=3851&extension=ts
+
+#EXTINF:-1 group-title="Bein Sport 4k",beIN Sports 3 Nexus 4K
+http://fuego-iptv.net/play/live.php?mac=00:1A:79:4E:54:58&stream=1269945&extension=ts
+
+#EXTINF:-1 group-title="Bein Sport 4k",beIN Sports 4 4K
+http://fuego-iptv.net/play/live.php?mac=00:1A:79:4E:54:58&stream=114049&extension=ts
+
+#EXTINF:-1 group-title="Bein Sport 4k",beIN Sports 4 UHD
+http://fuego-iptv.net/play/live.php?mac=00:1A:79:4E:54:58&stream=3850&extension=ts
+
+#EXTINF:-1 group-title="Bein Sport 4k",beIN Sports 4 Nexus 4K
+http://fuego-iptv.net/play/live.php?mac=00:1A:79:4E:54:58&stream=1269946&extension=ts
+
+#EXTINF:-1 group-title="Bein Sport 4k",beIN Sports 5 4K
+http://fuego-iptv.net/play/live.php?mac=00:1A:79:4E:54:58&stream=114048&extension=ts
+
+#EXTINF:-1 group-title="Bein Sport 4k",beIN Sports 5 UHD
+http://fuego-iptv.net/play/live.php?mac=00:1A:79:4E:54:58&stream=3849&extension=ts
+
+#EXTINF:-1 group-title="Bein Sport 4k",beIN Sports 5 Nexus 4K
+http://fuego-iptv.net/play/live.php?mac=00:1A:79:4E:54:58&stream=1269947&extension=ts
+
+#EXTINF:-1 group-title="Bein Sport 4k",beIN Sports 6 4K
+http://fuego-iptv.net/play/live.php?mac=00:1A:79:4E:54:58&stream=114047&extension=ts
+
+#EXTINF:-1 group-title="Bein Sport 4k",beIN Sports 6 UHD
+http://fuego-iptv.net/play/live.php?mac=00:1A:79:4E:54:58&stream=3848&extension=ts
+
+#EXTINF:-1 group-title="Bein Sport 4k",beIN Sports 6 Nexus 4K
+http://fuego-iptv.net/play/live.php?mac=00:1A:79:4E:54:58&stream=1269948&extension=ts
+
+#EXTINF:-1 group-title="Bein Sport 4k",beIN Sports 7 4K
+http://fuego-iptv.net/play/live.php?mac=00:1A:79:4E:54:58&stream=114046&extension=ts
+
+#EXTINF:-1 group-title="Bein Sport 4k",beIN Sports 7 UHD
+http://fuego-iptv.net/play/live.php?mac=00:1A:79:4E:54:58&stream=3847&extension=ts
+
+#EXTINF:-1 group-title="Bein Sport 4k",beIN Sports 7 Nexus 4K
+http://fuego-iptv.net/play/live.php?mac=00:1A:79:4E:54:58&stream=1269949&extension=ts
+
+#EXTINF:-1 group-title="Bein Sport 4k",beIN Sports 8 4K
+http://fuego-iptv.net/play/live.php?mac=00:1A:79:4E:54:58&stream=114045&extension=ts
+
+#EXTINF:-1 group-title="Bein Sport 4k",beIN Sports 8 UHD
+http://fuego-iptv.net/play/live.php?mac=00:1A:79:4E:54:58&stream=10361&extension=ts
+
+#EXTINF:-1 group-title="Bein Sport 4k",beIN Sports 8 Nexus 4K
+http://fuego-iptv.net/play/live.php?mac=00:1A:79:4E:54:58&stream=1269950&extension=ts
+
+#EXTINF:-1 group-title="Bein Sport 4k",beIN Sports XTRA 5 4K
+http://fuego-iptv.net/play/live.php?mac=00:1A:79:4E:54:58&stream=1572908&extension=ts
+
+#EXTINF:-1 group-title="Bein Sport 4k",beIN Sports XTRA 6 4K
+http://fuego-iptv.net/play/live.php?mac=00:1A:79:4E:54:58&stream=1572912&extension=ts
+
+#EXTINF:-1 group-title="Bein Sport 4k",beIN Sports XTRA 7 4K
+http://fuego-iptv.net/play/live.php?mac=00:1A:79:4E:54:58&stream=1572916&extension=ts
+
+#EXTINF:-1 group-title="Bein Sport 4k",beIN Sports XTRA 8 4K
+http://fuego-iptv.net/play/live.php?mac=00:1A:79:4E:54:58&stream=1572920&extension=ts
+
+#EXTINF:-1 group-title="Bein Sport 4k",beIN Sports XTRA 9 4K
+http://fuego-iptv.net/play/live.php?mac=00:1A:79:4E:54:58&stream=1572924&extension=ts
+
+#EXTINF:-1 group-title="مندالان",Newmax Kids ᴴᴰ
+http://fuego-iptv.net/play/live.php?mac=00:1A:79:4E:54:58&stream=312652&extension=ts
+
+#EXTINF:-1 group-title="مندالان",NIGA KIDS ᴴᴰ
+http://fuego-iptv.net/play/live.php?mac=00:1A:79:4E:54:58&stream=312657&extension=ts
