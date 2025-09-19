@@ -67,8 +67,8 @@ http://mmn.mypsx.net:1935/live/mmnhdnews/playlist.m3u8
 https://media.streambrothers.com:1936/8226/8226/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_nTTtx120YViNegO-2Xu-T6xhWpOAV1RKQxqE6ZYOfCPw=s900-c-k-c0x00ffffff-no-rj" group-title="", Kurdmax Music
 https://6476e46b58f91.streamlock.net/music/livestream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQh-mfdVcXmY6rVDZWco5BhAA3k33NTPIbhIg&s" group-title="Sport VIP", SportTV
-ttps://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Azadi
+http://iptv.nextnet.krd:25461/12920/4516/4694
 #EXTINF:-1 tvg-logo="https://cdn6.aptoide.com/imgs/a/f/e/afe314a10c57d7cc20a578aa6c77fa0d_icon.png" group-title="", Kurdsat HD
 https://iko-live.akamaized.net/KurdsatTV/master_2.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FsQhPDOXsAAoS5z?format=jpg&name=large" group-title="", Kurdsat News HD
@@ -79,8 +79,8 @@ https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/chunklist_w17909058
 https://live.host247.net/gk/gksat/chunklist_w1047231487.m3u8
 #EXTINF:-1 tvg-logo="https://amozhgary.tv/style/img/logo.png" group-title="", Amozhgare
 https://app-live.org/live/3268334b/index.m3u8
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/mLlAg0fL1IzgrYC1HyQT8nNYbYbJ9x8uxvLV10o5IPeb_HiARmogfOhqesXO7OsS84OxcXi4Lw=s176-c-k-c0x00ffffff-no-rj-mo" group-title="", Afarin Baxcha
-http://afarintv2.flashmediacast.com:1935/afarinTV/livestream/chunklist_w509072637.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Bahar
+http://iptv.nextnet.krd:25461/12920/4516/5020
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiJK6MmFJhdMe60hQU2-vK7rmxMPv3tOPtxg&s" group-title="", Rudaw FHD
 https://svs.itworkscdn.net/rudawlive/rudawlive.smil/rudawpublish/rudawtv_720p/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/Um3X2mCrh__3kvhqUTXO58izyJvp7tMGQaVLczmtQVxtg6e1vsgpGIA_xZA1pmOB3FQp" group-title="", hadath
@@ -111,24 +111,24 @@ http://iptv.nextnet.krd:25461/12920/4516/99
 http://app-plus.live:80/4qoq1y7yu4/j4wtif2te5/280434
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhj8zWSfvxaLqcJ-a0YgZIIS2axG8jko6ZZg&s" group-title="", Astera Culture
 http://app-plus.live:80/4qoq1y7yu4/j4wtif2te5/312563
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8bB7yiCbEU2Csgw62FmRTUDxgwos_4qBSQA&s" group-title="", Nuber
-http://stream.nubar.tv:1935/private/NUBARtv/HawezHD.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Azhin
+http://rechahd.xyz:80/live/443432469215731/4362020837/805751.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpaF6bf3KJMLtNteyFHrhf1rLIM6Ltmlh0x-HUKPxq1u5PEnzjRdOMjbveHcO_gZ93J5w&usqp=CAU" group-title="", zaxo
 http://superintendent.whatevergos.com:2095/1287598268558/iPy331PAM5/162751
 #EXTINF:-1 tvg-logo="http://widget.ottplayer.tv/upictures/4f9a34a7-f052-4f12-b4ce-f85087e426f9.png" group-title="", Sada Tv
 http://sada-hd.ddns.net:40/live/sadatv/chunklist_w835259428.m3u8
 #EXTINF:-1 tvg-logo="https://karwan.tv/wp-content/uploads/kurd-7-tv.jpg" group-title="", Kurd 7
 http://avrstream.com:1935/live/Kurd7HD/chunklist_w18309791.m3u8
-#EXTINF:-1 tvg-logo="https://karwan.tv/wp-content/uploads/4-kurd-tv.png" group-title="", 4kurd
-https://4kuhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Babuly
+http://iptv.nextnet.krd:25461/12920/4516/4703
 #EXTINF:-1 tvg-logo="http://widget.ottplayer.tv/upictures/f684ef9b-0687-476a-9eb4-ee5d62729a08.png" group-title="", UTV Hawler
 http://iptv.nextnet.krd:25461/12920/4516/155
-#EXTINF:-1 tvg-logo="http://widget.ottplayer.tv/upictures/eb25e1e7-81d4-46eb-b73b-69d8f7012cfd.png" group-title="", Mtv Next
-http://yusfdaravip3w43.zapto.org/EX/MTV_Music_HD-kr/index.m3u8?token=fyBlKndpe3pmLXppNxEVBw1he3VoLnQ1Kj9gfHdofXVifHBg
+#EXTINF:-1 tvg-logo="" group-title="",Nishtimani Mn
+http://rechahd.xyz:80/live/443432469215731/4362020837/54027.ts
 #EXTINF:-1 tvg-logo="http://widget.ottplayer.tv/upictures/11f95e8a-26ed-428e-9327-3d6ed60deaa3.png" group-title="", Rassan
 http://iptv.nextnet.krd:25461/12920/4516/94
-#EXTINF:-1 tvg-logo="http://widget.ottplayer.tv/upictures/ab6e89d4-dd07-4c5c-8a1a-98826baf0f13.png" group-title="", Ld Nujien
-http://dksip.com/live/mohamadamro/369615160315/168539.ts
+#EXTINF:-1 tvg-logo="" group-title="",Chihan
+http://rechahd.xyz:80/live/443432469215731/4362020837/771661.ts
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/dgvgigu3MzQ8AMIlj2tD7-cqsz_MKbGf7ic3X5F7uOxe9smjIfiJ6pu3EFcl8YwFi5LzOyfU2g=s900-c-k-c0x00ffffff-no-rj" group-title="", Nrt 4
 https://live20.bozztv.com/giatv/giatv-nrt4stream/nrt4stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/25576VHP/45-EA5-B75-8-D5-A-4582-806-B-449-D0380-D1-EF.png" group-title="", Gewher HD
@@ -151,8 +151,8 @@ https://live20.bozztv.com/giatv/giatv-istar4ktv/istar4ktv/chunks.m3u8
 https://live20.bozztv.com/giatv/giatv-halabja88garyan/halabja88garyan/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://widget.ottplayer.tv/upictures/71493f55-c779-41bd-a311-def1bda064ac.png" group-title="", Bask
 http://baskhd.ddns.net:40/live/baskhd/chunklist_w586445309.m3u8
-#EXTINF:-1 tvg-logo="http://widget.ottplayer.tv/upictures/eb858b9f-8eb4-4fe5-847f-bae14aec08dc.png" group-title="", animalbox
-http://avrstream.com:1935/live/animalbox/playlist.m3u8
+#EXTINF:-1 tvg-logo ="" group-title="",Ld Nujin
+http://rechahd.xyz:80/live/443432469215731/4362020837/732981.ts
 #EXTINF:-1 tvg-logo="https://alnasershop.com/wp-content/uploads/2021/01/rediptv-1.jpg" group-title="", Red Tv
 http://avrstream.com:1935/live/REDTV/chunklist_w759764586.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZ4i_gTxNFM9kiMfWq7nK8dCdxgyTXedmk6Q&s" group-title="", Qalam HD
@@ -235,8 +235,8 @@ http://royalibox.com/4qoq1y7yu4/j4wtif2te5/456267
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQe9qj9covH_edIdNokGkTZGCdgkq3A5jiLaw&s" group-title="", NAQSHI MEDIA
 http://naqshi-media.com:1935/live/NaqshiMedia/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXqCGujfDQNcObQng5EpSvuONxIa0bV0OYlw&s" group-title="Sport VIP", Thmanyah 1
-http://forevertv.me:8080/live/1234578/Wq6wdahq497563/488786.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sport Vip",Bein Sport 1
+http://sansat.cc:88/live/02028425410074/ZUSTRUMM230NX8G/6814.m3u8
 
 #EXTINF:-1 tvg-name="Thmanyah 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXqCGujfDQNcObQng5EpSvuONxIa0bV0OYlw&s" group-title="Sport VIP", Thmanyah 2
 http://dream4k.org/play/live.php?mac=00:1A:79:54:54:54&stream=1549877&extension=ts&play_token=tuDb4TDoVT
@@ -279,11 +279,9 @@ http://188.241.219.157/live/halabja88/halabja88/274124.ts?token=ShJdY2ZmQQNHCmMZ
 #EXTINF:-1 tvg-logo="https://www.beinsports.com/_next/static/media/bein_logo.af017869.webp?ver=03-06-2025?w=384&q=75" group-title="Sport VIP", Bein Sport 2
 http://188.241.219.157/live/yusf4k/yusf4k/274123.ts?token=ShJdY2ZmQQNHCmMZCDZXUh9GSHAWGFMD.ZDsGQVN.WGBFNX013GR9YV1QbGBp0QE9SWmpcXlQXXlUHWlcbRxFACmcDY1tXEVkbVAoAAQJUFxUbRFldAxdeUAdaVAFcUwcHAhwWQlpXQQMLTFhUG0FQQU1VQl4HWTsFVBQLVABGCVxEXFgeEVwNZgFcWVlZBxcDGwESHERcFxETWAxCCQgfEFNZQEBSRwYbX1dBVFtPF1pWRV5EFExGWxMmJxVJRlZKRVVaQVpcDRtfG0BLFU8XUEpvQlUVQRYEUA8HRUdeEQITHBZfUks8WgpXWl1UF1xWV0MSCkQERk0TDw1ZDBBcQG5AXVYRCQ1MCVVJ
 
-#EXTINF:-1 tvg-name="NEWLINE 1" tvg-logo="https://karwan.tv/wp-content/uploads/newline-528x297.png"
+#EXTINF:-1 tvg-logo="https://karwan.tv/wp-content/uploads/newline-528x297.png",Newline
 http://iptv.nextnet.krd:25461/12920/4516/112
 
-#EXTINF:-1 tvg-name="BEIN SPORTS 1" tvg-logo="https://www.beinsports.com/_next/static/media/bein_logo.af017869.webp?ver=03-06-2025?w=384&q=75" group-title="Sport VIP", Bein Sport 1
-http://188.241.219.157/live/yusf4k/yusf4k/274122.ts?token=...
 
 #EXTINF:-1 tvg-logo="https://karwan.tv/wp-content/uploads/jamawar-tv.jpg" group-title="", JAMMAWAR
 http://app-plus.live:80/4qoq1y7yu4/j4wtif2te5/280426
@@ -291,8 +289,8 @@ http://app-plus.live:80/4qoq1y7yu4/j4wtif2te5/280426
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn2Qu7sBuMhCR3G_DdeLeO9mNbocKGFn6eVw&s" group-title="", Kurd Cinema 3
 http://vpn.iptvtiger2.xyz/play/live.php?mac=00:1A:79:57:20:B1&stream=1859071&extension=ts&play_token=...
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKB6vCWdeZ-cQ-dUdEdiic5rB7YeZx67I5Tw&s" group-title="Sport VIP", Post Sport 3
-http://rofn7j6a18m5.m8adxmykadu98mx.xyz:2052/live/31047028687560/11275966348657/631675.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sport VIP",AVA Sport
+http://iptv.nextnet.krd:25461/12920/4516/4690
 
 #EXTINF:-1 tvg-logo="https://karwan.tv/wp-content/uploads/kurdmax-pepule-528x297.jpg" group-title="Kids Vip", Kurdmax Papula
 http://royalibox.com/4qoq1y7yu4/j4wtif2te5/312737
@@ -309,11 +307,11 @@ http://app-plus.live:80/4qoq1y7yu4/j4wtif2te5/312579
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5B9oM14aJWsr11m_qRsRDIGArp_nqVJuSPA&s" group-title="", Wild Earth
 https://wildearth-plex.amagi.tv/masterR1080p.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcYaeJ_-_KMlAni0aMVUhgGDLL4TgtTxANYQ&s" group-title="", Mix Kurdi
-http://avrstream.com:1935/live/Mix-kurdy/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Niga Moveis
+http://rechahd.xyz:80/live/443432469215731/4362020837/805981.ts
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1xEE7kw8UTQK-QAsSeFvCuD5-eVF96eanWQ&s" group-title="", K24 DOC
-http://forevertv.me:2095/live/5qAG3A29yB5UV2/4ckkYtGeaNy9nH/390555.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Astera Family
+http://rechahd.xyz:80/live/443432469215731/4362020837/54062.ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUZ66BGS0AKkYYKYtiM1jIwRNEwe3fH_WmgA&s" group-title="", Amozhgare
 https://app-live.org/live/3268334b/index.m3u8
@@ -331,7 +329,7 @@ http://vpn.iptvtiger2.xyz/play/live.php?mac=00:1A:79:57:20:B1&stream=1859065&ext
 http://iptv.nextnet.krd:25461/12920/4516/91
 
 #EXTINF:-1 tvg-logo="https://bmctv.krd/images/logo.png" group-title="", BMC TV
-http://forevertv.me:2095/live/5qAG3A29yB5UV2/4ckkYtGeaNy9nH/41519.m3u8
+http://iptv.nextnet.krd:25461/12920/4516/88
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQG5f4mmZnwSfqzSTFTEZQasdn1YX6LSr8DUw&s" group-title="Sport VIP", BEIN SPORTS NEWS
 http://app-plus.live/live/8g5665q36d/rj9c9ucrhl/22198.ts
@@ -339,14 +337,12 @@ http://app-plus.live/live/8g5665q36d/rj9c9ucrhl/22198.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4zarFbDgDRoJo85LfNWMyo1tO_XFp4s-IMg&s",Darwaza Tv
 http://new.tryv24.shop:80/Nboxtv_857858/KsAKkuKx/129832
 
-#EXTINF:-1 tvg-logo="https://ih1.redbubble.net/image.1537432242.4989/ur group-title="Kids Vip", pin_small_front,wide_portrait,750x1000.jpg",Krd Carton 2
+#EXTINF:-1 tvg-logo="https://ih1.redbubble.net/image.1537432242.4989/ur group-title="Kids Vip",Krd Carton 2
 http://new.tryv24.shop:80/Nboxtv_857858/KsAKkuKx/129859
 
 #EXTINF:-1 tvg-logo="https://mixmedia.tv/wp-content/uploads/2020/06/Niga-family.png", Niga Family
 http://new.tryv24.shop:80/Nboxtv_857858/KsAKkuKx/129906
 
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_mBExmTG_n1lEdXoncLUfBNy2itAvhXqktcSRgB6Jal1A=s900-c-k-c0x00ffffff-no-rj",Niga Movies
-http://new.tryv24.shop:80/Nboxtv_857858/KsAKkuKx/129908
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfGjzdImyVyVdrBPYHymePUI5eV0ZP7TzZsA&s",Shaista HD
 http://new.tryv24.shop:80/Nboxtv_857858/KsAKkuKx/129924
@@ -357,8 +353,6 @@ http://new.tryv24.shop:80/Nboxtv_857858/KsAKkuKx/129929
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzucpRmkr8NQpHv0nK20kASO0_dvoNhtngBw&s", Srusht ᴴᴰ
 http://new.tryv24.shop:80/Nboxtv_857858/KsAKkuKx/129931
 
-#EXTINF:-1 tvg-logo="https://ih1.redbubble.net/image.1537432242.4989/ur group-title="", pin_small_front,wide_portrait,750x1000.jpg",BINER ᴴᴰ
-http://new.tryv24.shop:80/Nboxtv_857858/KsAKkuKx/456258
 
 #EXTINF:-1 tvg-logo="https://ih1.redbubble.net/image.1537432242.4989/ur group-title="", pin_small_front,wide_portrait,750x1000.jpg",BINER ᴴᴰ
 http://app-plus.live:80/4qoq1y7yu4/j4wtif2te5/150589
@@ -445,8 +439,6 @@ http://fuego-iptv.net/play/live.php?mac=00:1A:79:4E:54:58&stream=22198&extension
 #EXTINF:-1 group-title="Bein Sport 4k",beIN SPORTS GLOBAL UHD
 http://fuego-iptv.net/play/live.php?mac=00:1A:79:4E:54:58&stream=22199&extension=ts
 
-#EXTINF:-1 group-title="Bein Sport 4k",beIN Sports 1 4K
-http://fuego-iptv.net/play/live.php?mac=00:1A:79:4E:54:58&stream=114053&extension=ts
 
 #EXTINF:-1 group-title="Bein Sport 4k",beIN Sports 1 UHD
 http://fuego-iptv.net/play/live.php?mac=00:1A:79:4E:54:58&stream=3854&extension=ts
@@ -537,3 +529,12 @@ http://fuego-iptv.net/play/live.php?mac=00:1A:79:4E:54:58&stream=312652&extensio
 
 #EXTINF:-1 group-title="مندالان",NIGA KIDS ᴴᴰ
 http://fuego-iptv.net/play/live.php?mac=00:1A:79:4E:54:58&stream=312657&extension=ts
+
+#EXTINF:-1 tvg-id="Life Kids" group-title="مندالان",Life Kids
+http://rechahd.xyz:80/live/443432469215731/4362020837/301557.ts
+
+#EXTINF:-1 tvg-id="Ezdan Kids" group-title="مندالان",Ezdan Kids
+http://rechahd.xyz:80/live/443432469215731/4362020837/301541.ts
+
+#EXTINF:-1 tvg-id="First Kids" group-title="مندالان",First Kids
+http://rechahd.xyz:80/live/443432469215731/4362020837/805757.ts
