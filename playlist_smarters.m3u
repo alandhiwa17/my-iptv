@@ -524,17 +524,17 @@ http://fuego-iptv.net/play/live.php?mac=00:1A:79:4E:54:58&stream=1572920&extensi
 #EXTINF:-1 group-title="Bein Sport 4k",beIN Sports XTRA 9 4K
 http://fuego-iptv.net/play/live.php?mac=00:1A:79:4E:54:58&stream=1572924&extension=ts
 
-#EXTINF:-1 group-title="مندالان",Newmax Kids ᴴᴰ
+#EXTINF:-1 group-title="Kids Vip",Newmax Kids ᴴᴰ
 http://fuego-iptv.net/play/live.php?mac=00:1A:79:4E:54:58&stream=312652&extension=ts
 
-#EXTINF:-1 group-title="مندالان",NIGA KIDS ᴴᴰ
+#EXTINF:-1 group-title="Kids Vip",NIGA KIDS ᴴᴰ
 http://fuego-iptv.net/play/live.php?mac=00:1A:79:4E:54:58&stream=312657&extension=ts
 
-#EXTINF:-1 tvg-id="Life Kids" group-title="مندالان",Life Kids
+#EXTINF:-1 tvg-id="Life Kids" group-title="Kids Vip",Life Kids
 http://rechahd.xyz:80/live/443432469215731/4362020837/301557.ts
 
-#EXTINF:-1 tvg-id="Ezdan Kids" group-title="مندالان",Ezdan Kids
+#EXTINF:-1 tvg-id="Ezdan Kids" group-title="Kids Vip",Ezdan Kids
 http://rechahd.xyz:80/live/443432469215731/4362020837/301541.ts
 
-#EXTINF:-1 tvg-id="First Kids" group-title="مندالان",First Kids
+#EXTINF:-1 tvg-id="First Kids" group-title="Kids Vip",First Kids
 http://rechahd.xyz:80/live/443432469215731/4362020837/805757.ts
