@@ -6,7 +6,7 @@ https://d1x82nydcxndze.cloudfront.net/live/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhqLYYU9x7_AEvq2vXe6qhmXeH0ZIckG4rrg&s" group-title="", PAYAM HD
 https://media2.streambrothers.com:1936/8218/8218/kurdtv1.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Afarin_logo.png" group-title="Kids Vip", AFARIN TV
-http://rechahd.xyz:80/live/443432469215731/4362020837/804207.ts
+http://afarintv.flashmediacast.com:1935/afarinTV/livestream/HawezHD.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_EOciTZS7UCp5mp6SDLrGc99qHA5WH_w2hA&s" group-title="", MMN QURAN HD
 http://mmn.mypsx.net:1935/live/mmnhdquran/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://karwan.tv/wp-content/uploads/channel-8.png" group-title="", CHANNEL 8 HD
@@ -26,7 +26,7 @@ http://mmn.mypsx.net:1935/live/mmnhdmovies/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://karwan.tv/wp-content/uploads/eman-tv.jpg" group-title="", Walat
 http://stream.welattv.net:1935/welat/tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT83IK4rgRJj5m2u0zwxV6wXWgrSaiSEXcfAg&s" group-title="", KIDCO HD
-http://avrstream.com:1935/live/kidcohd/chunklist_w1335484422.m3u8
+http://avrstream.com:1935/live/kidcohd/HawezHD.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_nlygQ2oHguLFUI1r-J26xyJey1-kTslG-eSBFNW1Q_Gg=s900-c-k-c0x00ffffff-no-rj" group-title="", DERIN HD
 http://baskhd.ddns.net:40/live/Derin/index.m3u8?checkedby:Halabja88
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRORKVkS-OF7jcd0nprQWkc5MNnyalZHYyEEg&s" group-title="", EURO KURD HD
@@ -238,7 +238,7 @@ http://naqshi-media.com:1935/live/NaqshiMedia/playlist.m3u8
 http://rechahd.xyz:80/live/443432469215731/4362020837/344543.ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsCkaun0MCcKSyV1wbF7ypFE60p9PaSrC4yw&s" group-title="Sport VIP", LD Sport 
-http://rechahd.xyz:80/live/443432469215731/4362020837/805768.ts
+http://142.132.133.190:1935/live/Sportchek-ld-HawezHD/HawezHD.m3u8?checkedby:hawezHD
 
 #EXTINF:-1 tvg-logo="https://mixmedia.tv/wp-content/uploads/2020/06/Nishtimani-mn-TV-768x460.png" group-title="", Nishtmany
 http://iptv.nextnet.krd:25461/12920/4516/126
@@ -399,11 +399,18 @@ http://new.tryv24.shop:80/Nboxtv_857858/KsAKkuKx/312686
 http://app-plus.live:80/4qoq1y7yu4/j4wtif2te5/689917
 
 #EXTINF:-1 group-title="Bein Sport",beIN Sports 1 
-http://fuego-iptv.net/play/live.php?mac=00:1A:79:4E:54:58&stream=3854&extension=ts
+https://1789-181.123091763.it.com/live/527418_.m3u8
 
 #EXTINF:-1 group-title="Bein Sport",beIN Sports 2
-http://1789-181.123091763.it.com/live/235756_.m3u8?session=kH4d1xtTbqUGSeDDWl0OEE5Kp7Q9Fu_jA20f0LnlLT9te1h6MXqwCjbdiFKzKxjrmNMM2CIpu_FjrEYIsYX9QLhmX8hyKgBR&location=local
-
+https://1789-181.123091763.it.com/live/235756_.m3u8
+#EXTINF:-1 group-title="Bein Sport",beIN Sports 3
+https://1789-181.123091763.it.com/live/162154_.m3u8
+#EXTINF:-1 group-title="Bein Sport",beIN Sports 4
+https://1789-181.123091763.it.com/live/367434_.m3u8
+#EXTINF:-1 group-title="Bein Sport",beIN Sports 5
+https://1789-181.123091763.it.com/live/99529_.m3u8
+#EXTINF:-1 group-title="Bein Sport",beIN Sports 6
+https://1789-181.123091763.it.com/live/65328_.m3u8
 
 
 #EXTINF:-1 group-title="Kids Vip",Newmax Kids ᴴᴰ
@@ -422,7 +429,7 @@ https://live20.bozztv.com/giatv/giatv-spikids4k2025/spikids4k2025/chunks.m3u8
 http://rechahd.xyz:80/live/443432469215731/4362020837/805757.ts
 
 #EXTINF:-1 tvg-logo="https://cdn-images.dzcdn.net/images/cover/be9b1a7029eaa6b0ae51e5eac2e9aa93/0x1900-000000-80-0-0.jpg" group-title="Kids Vip", AFARIN Kids
-https://65f16f0fdfc51.streamlock.net/afarinTV/livestream/playlist.m3u8
+http://afarintv2.flashmediacast.com:1935/afarinTV/livestream/hawezhd.m3u8
 
 #EXTINF:-1 tvg-logo="https://karwan.tv/blog/wp-content/uploads/waar.jpg" group-title="", Waar HD
 http://rechahd.xyz:80/live/443432469215731/4362020837/54103.ts
@@ -460,4 +467,31 @@ http://app-plus.live:80/16352526000642176872/zidqkkxi25wqac17b5qe/150570
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3KcLw0csrkKGbULNtDe_FvNI500FcqbwGtA&s" group-title="Sport VIP", ARO Sport 
 http://app-plus.live:80/16352526000642176872/zidqkkxi25wqac17b5qe/689904
 
-
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/8vT-d_35zmaULX6bTEzhLy7HhrfwvXP67bLMdvTuQPvlH5fsp91uNAoMZulCiEZi" group-title="Kids Vip", Roya Kids 
+https://playlist.fasttvcdn.com/pl/ptllxjd03j6g9oxxjdfapg/roya-kids/playlist.m3u8?st=w1BAp3H3sNl-Qg7Kl5LkQg&amp;e=1752951034
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQEKpBPlrj6IvA8_wvo4hIk0Iq_qigWXe54A&s" group-title="", Infnity HD
+https://cdn.karwan.tv/infinity-tv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZ4i_gTxNFM9kiMfWq7nK8dCdxgyTXedmk6Q&s" group-title="", Befrin HD
+http://142.132.133.190:1935/live/befrintv/HawezHD.m3u8
+#EXTINF:-1 tvg-logo="http://widget.ottplayer.tv/upictures/39ad0db4-efd7-432b-b325-a6393c8dbf2c.png" group-title="Kids Vip", AFARIN Radio
+http://afarintv2.flashmediacast.com:1935/afarinTV/d1/livestream/HawezHD.m3u8
+#EXTINF:-1 tvg-logo="http://widget.ottplayer.tv/upictures/76af16d4-6156-4ae6-a50b-ecf5b9a82333.png" group-title="", Soz HD
+https://live20.bozztv.com/giatv/giatv-sozetvq/sozetvq/chunks.m3u8
+#EXTINF:-1 tvg-logo="http://widget.ottplayer.tv/upictures/b652b4c5-b7b9-4ec9-8e15-f37a58a0c610.png" group-title="Sport VIP", Behrain Sport 1
+https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/HawezHD.m3u8
+#EXTINF:-1 tvg-logo="http://widget.ottplayer.tv/upictures/b652b4c5-b7b9-4ec9-8e15-f37a58a0c610.png" group-title="Sport VIP", Behrain Sport 2
+https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/HawezHD.m3u8
+#EXTINF:-1 tvg-logo="http://widget.ottplayer.tv/pictures/954.png" group-title="Sport VIP", Canal Sport 1
+http://116.202.237.33:8080/CNLS1/tracks-v1a1a2a3l1l2/mono.m3u8?token=ef1c6f27da4b04de8c97b52b9255617b
+#EXTINF:-1 tvg-logo="http://widget.ottplayer.tv/upictures/44b7bc3d-e696-4e16-977a-fae183058376.png" group-title="Sport VIP", Dubai Sport 1
+#https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://widget.ottplayer.tv/upictures/44b7bc3d-e696-4e16-977a-fae183058376.png" group-title="Sport VIP", Dubai Sport 2
+https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://widget.ottplayer.tv/upictures/44b7bc3d-e696-4e16-977a-fae183058376.png" group-title="Sport VIP", Dubai Sport 3
+https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://widget.ottplayer.tv/pictures/21316.png" group-title="Sport VIP", Sky Sport 
+#http://a4d2f927.amazzin.pw/iptv/LN73B6Q5U2R39M/9289/index.m3u8
+#EXTINF:-1 tvg-logo="http://widget.ottplayer.tv/pictures/21328.png" group-title="Sport VIP", Sky Sport Premier League
+http://a4d2f927.amazzin.pw/iptv/LN73B6Q5U2R39M/9334/index.m3u8
+#EXTINF:-1 tvg-logo="http://widget.ottplayer.tv/pictures/1181.png group-title="Sport VIP", Varzsh HD
+https://live.teleradiocom.tj/5/3m.m3u8
