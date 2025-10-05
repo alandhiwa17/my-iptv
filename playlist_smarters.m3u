@@ -110,7 +110,7 @@ http://iptv.nextnet.krd:25461/12920/4516/99
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9ekvirfi31FOrS29amafvIlEBYcu9wRTbwg&s" group-title="", Ranya HD
 http://app-plus.live:80/4qoq1y7yu4/j4wtif2te5/280434
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhj8zWSfvxaLqcJ-a0YgZIIS2axG8jko6ZZg&s" group-title="", Astera Culture
-http://app-plus.live:80/4qoq1y7yu4/j4wtif2te5/312563
+http://streamcdn.us:8080/live/98778676754/88526902544/119678.ts
 #EXTINF:-1 tvg-logo="" group-title="",Azhin
 http://rechahd.xyz:80/live/443432469215731/4362020837/805751.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpaF6bf3KJMLtNteyFHrhf1rLIM6Ltmlh0x-HUKPxq1u5PEnzjRdOMjbveHcO_gZ93J5w&usqp=CAU" group-title="", zaxo
@@ -317,7 +317,7 @@ http://iptv.nextnet.krd:25461/12920/4516/88
 http://smarthd.otts.pro/live/70:2a:d5:24:f7:1d/II2L8KUVXZ/1581334.ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4zarFbDgDRoJo85LfNWMyo1tO_XFp4s-IMg&s",Darwaza Tv
-http://new.tryv24.shop:80/Nboxtv_857858/KsAKkuKx/129832
+http://iptv.nextnet.krd:25461/12920/4516/104
 
 
 #EXTINF:-1 tvg-logo="https://mixmedia.tv/wp-content/uploads/2020/06/Niga-family.png", Niga Family
@@ -495,5 +495,41 @@ https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd5/smil:dubaisportshd5.smil/chunk
 http://a4d2f927.amazzin.pw/iptv/LN73B6Q5U2R39M/9334/index.m3u8
 #EXTINF:-1 tvg-logo="http://widget.ottplayer.tv/pictures/1181.png" group-title="Sport VIP", Varzsh HD
 https://live.teleradiocom.tj/5/3m.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ickllzI52Sy1QjsECHbKx7j12W2JRN1V7ts3soz4PF2AgYVof6E6vxvnm42Ql0PGjUm9Syu-7Q=s900-c-k-c0x00ffffff-no-rj" group-title="", Nuber HD
+http://stream.nubar.tv:1935/private/NUBARtv/playlist.m3u8
 #EXTINF:-1 tvg-logo=" group-title="Sport VIP", Kurdistan HD Sport
 https://live20.bozztv.com/giatv/giatv-kurdistan_sportshd/kurdistan_sportshd/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://fusion.molotov.tv/arts/i/446x588/Ch8SHQoUUdgCAnSzOu3aFKZNFjXccHt3u4USA2pwZxgBCh8IARIbChTvLK177vsQceQNEQ8W-Bo58gs1-BIDcG5n/jpg" group-title="Sport VIP", Real Madrid
+https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_LWWO2KcJNlKFR-2P8YFNrG5_fJfHfFxvEQ&s" group-title="Sport VIP", Bein Sport 4K
+http://cmc.best-ott.me/live/bein_4K_STRONG/g32mXj2/544454.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_mvDPN_loLEa2OIuNAVUbTloEl6y3nguhThZND8tnDsf-s=s900-c-k-c0x00ffffff-no-rj" group-title="Sport VIP", Rozh Sport 
+http://st1activ.com:80/tarek50/hyfhdyier/429818
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZ_epfWB_TpiSP1C4ugDsunPrg1UTouMhh8g&s" group-title="", Hormzyar
+http://avrstream.com:1935/live/HormzyarHD/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Dangi Zilal
+http://streamcdn.us:8080/live/98778676754/88526902544/141661.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTswyzf4Bd8sD7LK6LKiD85Mo6d6KH6czyW1DxLwwqRg4n9Q0EOwkurzGTszdo5VVC0OZg&usqp=CAU" group-title="", Astera Movies
+http://streamcdn.us:8080/live/98778676754/88526902544/141629.ts
+#EXTINF:-1 tvg-logo="" group-title="Sport VIP", post sport 5
+http://smarthd.otts.pro/live/70:2a:d5:24:f7:1d/II2L8KUVXZ/1581331.ts
+#EXTINF:-1 tvg-logo="" group-title="Sport VIP", post sport 4
+http://smarthd.otts.pro/live/70:2a:d5:24:f7:1d/II2L8KUVXZ/1581332.ts
+#EXTINF:-1 tvg-logo="" group-title="", RozjHalat
+https://hlspackager.akamaized.net/live/DB/ROJHELAT/HLS/ROJHELAT-avc1_2500000=10002,mp4a_128000=20000.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Qalam GeoGraphic
+http://st1activ.com:80/tarek50/hyfhdyier/429805
+#EXTINF:-1 tvg-logo="" group-title="", Astera Show
+http://sup-4k.org/play/live.php?mac=00:1A:79:7a:39:a6&stream=280461&extension=ts&play_token=LvKVceEaN7
+#EXTINF:-1 tvg-logo="" group-title="", Nuber +
+http://stream.nubar.tv:1935/private/NUBARPlus/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sport VIP", LD sport 1
+https://live9.karwan.tv/Ldsportyusfstore/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Fryad Movies
+http://iview.is:2095/745372948748/609531094267/496017
+#EXTINF:-1 tvg-logo="" group-title="", Kurdana
+http://streamcdn.us:8080/live/98778676754/88526902544/147422.ts
+#EXTINF:-1 tvg-logo="" group-title="", Peshmarga
+http://142.132.133.190:1935/live/peshmerge/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", DTV HD
+http://st1activ.com:80/tarek50/hyfhdyier/429712
