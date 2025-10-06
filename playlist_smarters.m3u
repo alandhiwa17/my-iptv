@@ -395,37 +395,37 @@ http://rechahd.xyz:80/live/443432469215731/4362020837/805992.ts
 #EXTINF:-1 tvg-logo="https://ih1.redbubble.net/image.1537432242.4989/ur group-title="Sport VIP",Sima Sport HD
 http://new.tryv24.shop:80/Nboxtv_857858/KsAKkuKx/312686
 
-#EXTINF:-1 group-title="Sport VIP",|KRD| 4SPORT HD
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/oUCAq8kwjzKaGZSpRCyAsdvWZ7_4Id7sOKW0hs46Uv60B0ICz8ipDsz0ZOyfWpAprBI=w600-h300-pc0xffffff-pd" group-title="Sport VIP",4SPORT HD
 http://app-plus.live:80/4qoq1y7yu4/j4wtif2te5/689917
 
-#EXTINF:-1 group-title="Bein Sport",beIN Sports 1 
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4h-pm_mqbIUChFyax9EVaax-bUEwbSUa_aw&s" group-title="Bein Sport",beIN Sports 1 
 https://1789-181.123091763.it.com/live/527418_.m3u8
 
-#EXTINF:-1 group-title="Bein Sport",beIN Sports 2
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4h-pm_mqbIUChFyax9EVaax-bUEwbSUa_aw&s" group-title="Bein Sport",beIN Sports 2
 https://1789-181.123091763.it.com/live/235756_.m3u8
-#EXTINF:-1 group-title="Bein Sport",beIN Sports 3
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4h-pm_mqbIUChFyax9EVaax-bUEwbSUa_aw&s" group-title="Bein Sport",beIN Sports 3
 https://1789-181.123091763.it.com/live/162154_.m3u8
-#EXTINF:-1 group-title="Bein Sport",beIN Sports 4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4h-pm_mqbIUChFyax9EVaax-bUEwbSUa_aw&s" group-title="Bein Sport",beIN Sports 4
 https://1789-181.123091763.it.com/live/367434_.m3u8
-#EXTINF:-1 group-title="Bein Sport",beIN Sports 5
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4h-pm_mqbIUChFyax9EVaax-bUEwbSUa_aw&s" group-title="Bein Sport",beIN Sports 5
 https://1789-181.123091763.it.com/live/99529_.m3u8
-#EXTINF:-1 group-title="Bein Sport",beIN Sports 6
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4h-pm_mqbIUChFyax9EVaax-bUEwbSUa_aw&s" group-title="Bein Sport",beIN Sports 6
 https://1789-181.123091763.it.com/live/65328_.m3u8
 
 
-#EXTINF:-1 group-title="Kids Vip",Newmax Kids ᴴᴰ
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPIf-RKAqntuWqGWxGAgYsM2L0NFjYhRlgPA&s" group-title="Kids Vip",Newmax Kids ᴴᴰ
 http://fuego-iptv.net/play/live.php?mac=00:1A:79:4E:54:58&stream=312652&extension=ts
 
-#EXTINF:-1 group-title="Kids Vip",NIGA KIDS ᴴᴰ
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/yN0ApyytrbJyjFeYlapnLHB8trK9omYwYXVrqEmcHEmu4ttGAesy-XiboEDRLQXbmQhJ7hyvBg=s900-c-k-c0x00ffffff-no-rj" group-title="Kids Vip",NIGA KIDS ᴴᴰ
 http://fuego-iptv.net/play/live.php?mac=00:1A:79:4E:54:58&stream=312657&extension=ts
 
-#EXTINF:-1 tvg-id="Life Kids" group-title="Kids Vip",Life Kids
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrqwBZNhkuBQ8TN-ONxM_9rdRjBjr2dFwFtw&s" group-title="Kids Vip",Life Kids
 http://rechahd.xyz:80/live/443432469215731/4362020837/301557.ts
 
-#EXTINF:-1 tvg-id="Ezdan Kids" group-title="Kids Vip",Spi Kids
+#EXTINF:-1 tvg-logo="https://karwan.tv/wp-content/uploads/spi-kids.png" group-title="Kids Vip",Spi Kids
 https://live20.bozztv.com/giatv/giatv-spikids4k2025/spikids4k2025/chunks.m3u8
 
-#EXTINF:-1 " group-title="Kids Vip",First Kids
+#EXTINF:-1 "tvg-logo="https://firstbradenton.com/wp-content/uploads/2017/12/Artboard-1300-px.png"group-title="Kids Vip",First Kids
 http://rechahd.xyz:80/live/443432469215731/4362020837/805757.ts
 
 #EXTINF:-1 tvg-logo="https://cdn-images.dzcdn.net/images/cover/be9b1a7029eaa6b0ae51e5eac2e9aa93/0x1900-000000-80-0-0.jpg" group-title="Kids Vip", AFARIN Kids
@@ -461,7 +461,7 @@ http://sup-4k.org:80/play/live.php?mac=00:1A:79:ad:2a:0a&stream=280449&extension
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/kA-Bk9yN6VcSUk21JzwavWSln1l9kusxYZYgL8xsmMLwCSGlE9EDngSVAaO3ayX-xJA" group-title="Sport VIP", See Sport 1
 http://app-plus.live:80/16352526000642176872/zidqkkxi25wqac17b5qe/312676
 
-#EXTINF:-1 tvg-logo="" group-title="", Kani Tv
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfbXXRf5wKKdG6fh7uVWlE6C9xBuSsT9E1fw&s" group-title="", Kani Tv
 http://app-plus.live:80/16352526000642176872/zidqkkxi25wqac17b5qe/150570
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3KcLw0csrkKGbULNtDe_FvNI500FcqbwGtA&s" group-title="Sport VIP", ARO Sport 
