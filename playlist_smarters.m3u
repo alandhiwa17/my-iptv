@@ -511,25 +511,51 @@ http://avrstream.com:1935/live/HormzyarHD/playlist.m3u8
 http://streamcdn.us:8080/live/98778676754/88526902544/141661.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTswyzf4Bd8sD7LK6LKiD85Mo6d6KH6czyW1DxLwwqRg4n9Q0EOwkurzGTszdo5VVC0OZg&usqp=CAU" group-title="", Astera Movies
 http://streamcdn.us:8080/live/98778676754/88526902544/141629.ts
-#EXTINF:-1 tvg-logo="" group-title="Sport VIP", post sport 5
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/sUFNr8Vf0pGGsMU5GBAbgn1M5Af_UZ3QbPipFWh12IYwXDa0JT70lVhApDCPrI0in7_yHiceD0c=s900-c-k-c0x00ffffff-no-rj" group-title="Sport VIP", post sport 5
 http://smarthd.otts.pro/live/70:2a:d5:24:f7:1d/II2L8KUVXZ/1581331.ts
-#EXTINF:-1 tvg-logo="" group-title="Sport VIP", post sport 4
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/sUFNr8Vf0pGGsMU5GBAbgn1M5Af_UZ3QbPipFWh12IYwXDa0JT70lVhApDCPrI0in7_yHiceD0c=s900-c-k-c0x00ffffff-no-rj" group-title="Sport VIP", post sport 4
 http://smarthd.otts.pro/live/70:2a:d5:24:f7:1d/II2L8KUVXZ/1581332.ts
-#EXTINF:-1 tvg-logo="" group-title="", RozjHalat
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/9dUpchJf0l9rPkhLxsDgokNPNvzdkBPFpJ9xbYZ9jc635fYvL3O7XsHcmmKaTSKkMXVJTsFlTg=s900-c-k-c0x00ffffff-no-rj" group-title="", RozjHalat
 https://hlspackager.akamaized.net/live/DB/ROJHELAT/HLS/ROJHELAT-avc1_2500000=10002,mp4a_128000=20000.m3u8
 #EXTINF:-1 tvg-logo="" group-title="", Qalam GeoGraphic
 http://st1activ.com:80/tarek50/hyfhdyier/429805
-#EXTINF:-1 tvg-logo="" group-title="", Astera Show
+#EXTINF:-1 tvg-logo="https://mixmedia.tv/wp-content/uploads/2020/06/Astera-show.jpg" group-title="", Astera Show
 http://sup-4k.org/play/live.php?mac=00:1A:79:7a:39:a6&stream=280461&extension=ts&play_token=LvKVceEaN7
-#EXTINF:-1 tvg-logo="" group-title="", Nuber +
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/rxdRh5aX5maFJ5L57Bq8qaxNFAdFJ-xjXR8jndZPSWouzqzeIMdtO7uuSRLCwwB1F-JxfUXf=s900-c-k-c0x00ffffff-no-rj" group-title="", Nuber +
 http://stream.nubar.tv:1935/private/NUBARPlus/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Sport VIP", LD sport 1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsCkaun0MCcKSyV1wbF7ypFE60p9PaSrC4yw&s" group-title="Sport VIP", LD sport 1
 https://live9.karwan.tv/Ldsportyusfstore/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="", Fryad Movies
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/5WKKnGo28E118iIpArHz932R5A4wPgT5bfoZztp2m7fWMUaws4zZay3PHRjOx1NzGHMElG-d=s900-c-k-c0x00ffffff-no-rj" group-title="", Fryad Movies
 http://iview.is:2095/745372948748/609531094267/496017
-#EXTINF:-1 tvg-logo="" group-title="", Kurdana
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRp9xb2BPE4Cc5dYh6T0Xz-fd1JLbupJT5LrA&s" group-title="", Kurdana
 http://streamcdn.us:8080/live/98778676754/88526902544/147422.ts
-#EXTINF:-1 tvg-logo="" group-title="", Peshmarga
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUEp5o2AokDBD4Dm4Cf7Dy4GIfWnMd8_9bUkYk1t0ftFUG7JvNEAm0rja3wEXxMoN3x0A&usqp=CAU" group-title="", Peshmarga
 http://142.132.133.190:1935/live/peshmerge/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="", DTV HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIHkMs53KPJZRberBTYnMxcLFPFiZ5aP-ZPQ&s" group-title="", DTV HD
 http://st1activ.com:80/tarek50/hyfhdyier/429712
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/hnS_pU3jkYVl_Kr9CXY5s77ugmZO4oVKnMZkxziWpyE25NudM0q5dwZorCQ_iSSL2wlDV4-KbQ=s900-c-k-c0x00ffffff-no-rj" group-title="", Dimen HD
+http://streamcdn.us:8080/live/98778676754/88526902544/141654.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdvls9ZuZKip6qfBgHGE6S5s6CJNKlo-wM2g&s" group-title="", Ranya HD
+http://st1activ.com:80/tarek50/hyfhdyier/429809
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFyiZ-y5m5BemyqfwDIRdlo3OIS0Asc-IsSQ&s" group-title="", Naqshi Midea
+http://naqshi-media.com:1935/live/NaqshiMedia/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFyiZ-y5m5BemyqfwDIRdlo3OIS0Asc-IsSQ&s" group-title="", MTV Family
+http://st1activ.com:80/tarek50/hyfhdyier/429779
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Atv_logo_2010.svg/1200px-Atv_logo_2010.svg.png" group-title="", Atv Kurd
+http://superintendent.whatevergos.com:2095/1287598268558/iPy331PAM5/28027
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw8HCPhcQDzF0XJjJefENbldF7-vr19T6QBQ&s" group-title="", Niroj
+http://142.132.133.190:1935/live/Niroj_HD/HawezHD.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYWIlVMhJFEXNiwsVCJ21mnLFs_CE80Hh6OQ&s" group-title="", Jammawar
+http://st1activ.com:80/tarek50/hyfhdyier/429691
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHsk7oOwV9S-DEJTkMbLvE9R52vKpWF2xzGQ&s" group-title="", ZAXO
+http://superintendent.whatevergos.com:2095/1287598268558/iPy331PAM5/162751
+#EXTINF:-1 tvg-logo="https://karwan.tv/wp-content/uploads/spi-quran.png" group-title="", Spi 4K
+https://live20.bozztv.com/giatv/giatv-spitv4k_kamalblbas/spitv4k_kamalblbas/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlMgARl1MPPdmoEXH62KIa226ZV2cHWiILXg&s" group-title="", Reng Documentray
+http://streamcdn.us:8080/live/98778676754/88526902544/148619.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYdk4Q93XUcApRp9f9er0PYcMXdb986_vWdw&s" group-title="", Jin HD
+https://live.jintv.org/medialive/jintv.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Streak HD
+https://5dab1db4b25fe.streamlock.net/sterk/sterktv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sport Vip", Duhok Sport
+http://dream4ktv.net/play/live.php?mac=00:1A:79:34:65:29&stream=129834&extension=ts
