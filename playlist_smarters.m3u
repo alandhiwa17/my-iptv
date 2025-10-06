@@ -190,28 +190,28 @@ http://app-plus.live:80/4qoq1y7yu4/j4wtif2te5/280448
 #EXTINF:-1 tvg-logo="https://mixmedia.tv/wp-content/uploads/2022/08/nrt-sport.png" group-title="Sport VIP", Nrt Sport
 http://rechahd.xyz:80/live/443432469215731/4362020837/805984.ts
 
-#EXTINF:-1 tvg-logo="https://www.aljazeera.net/static/media/aj-logo-white.24cf5afb.svg" group-title="", Al Jazera
+#EXTINF:-1 tvg-logo="https://www.aljazeera.net/static/media/aj-logo-white.24cf5afb.svg" group-title="Arabic", Al Jazera
 https://live-hls-web-aja.getaj.net/AJA/02.m3u8
 
-#EXTINF:-1 tvg-logo="http://widget.ottplayer.tv/upictures/7cbc40c8-f51c-46aa-a117-84c9fea7c936.png" group-title="", Sky News
+#EXTINF:-1 tvg-logo="http://widget.ottplayer.tv/upictures/7cbc40c8-f51c-46aa-a117-84c9fea7c936.png" group-title="Arabic", Sky News
 https://stream.skynewsarabia.com/hls/sna_720.m3u8
 
-#EXTINF:-1 tvg-logo="http://widget.ottplayer.tv/upictures/8314c218-4e8b-4015-99f4-70d2a8d2c67b.png" group-title="", Dw Arabic
+#EXTINF:-1 tvg-logo="http://widget.ottplayer.tv/upictures/8314c218-4e8b-4015-99f4-70d2a8d2c67b.png" group-title="Arabic", Dw Arabic
 https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/stream05/streamPlaylist.m3u8
 
-#EXTINF:-1 tvg-logo="http://widget.ottplayer.tv/upictures/841b75fe-9546-442f-8826-c7d856aaf9b1.png" group-title="", Al Sharqya Mews
+#EXTINF:-1 tvg-logo="http://widget.ottplayer.tv/upictures/841b75fe-9546-442f-8826-c7d856aaf9b1.png" group-title="Arabic", Al Sharqya Mews
 http://ns8.indexforce.com:1935/alsharqiyalive/mystream/chunklist_w1408895114.m3u8
 
-#EXTINF:-1  group-title="", Al Jazera Mubasher
+#EXTINF:-1  group-title="Arabic", Al Jazera Mubasher
 https://live-hls-web-ajm.getaj.net/AJM/02.m3u8
 
-#EXTINF:-1  group-title="", Trt Arabic
+#EXTINF:-1  group-title="Arabic", Trt Arabic
 https://tv-trtarabi.medya.trt.com.tr/master_1080.m3u8
 
-#EXTINF:-1  group-title="", Al Iraqia News
+#EXTINF:-1  group-title="Arabic", Al Iraqia News
 http://cdn.catiacast.video/abr/78054972db7708422595bc96c6e024ac/playlist.m3u8
 
-#EXTINF:-1  group-title="", Al Arabia
+#EXTINF:-1  group-title="Arabic", Al Arabia
 https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://karwan.tv/wp-content/uploads/aso-sport-528x297.png" group-title="Sport VIP", ASO SPORT
