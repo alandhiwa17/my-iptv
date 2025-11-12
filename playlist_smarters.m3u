@@ -533,5 +533,26 @@ https://vo-live-media.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/
 https://vo-live-media.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel2/HLS/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="", UTV HAWLER
 https://vsd123.okcdn.ru/hls/3527542770279.m3u8/sig/O7-Y3eHXWcQ/expires/1763038417396/srcIp/95.159.95.95/urls/45.136.21.59/clientType/0/srcAg/CHROME/mid/4728653618791/3527542770279_high/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Dasnya Sport
+http://sansat.co:88/6407f699f50b/KEIO5VDEKZ/189951
+
+#EXTINF:-1 tvg-logo="" group-title="", Helhelok
+http://sansat.co:88/6407f699f50b/KEIO5VDEKZ/189959
+#EXTINF:-1 tvg-logo="" group-title="", ASMAN
+http://sansat.co:88/6407f699f50b/KEIO5VDEKZ/189965
+#EXTINF:-1 tvg-logo="" group-title="", SAHAR Kurdi
+http://sansat.co:88/6407f699f50b/KEIO5VDEKZ/189979
+#EXTINF:-1 tvg-logo="" group-title="",AZHIN
+http://sansat.co:88/6407f699f50b/KEIO5VDEKZ/190007
+#EXTINF:-1 tvg-logo="" group-title="",Reng Doc
+http://sansat.co:88/6407f699f50b/KEIO5VDEKZ/190045
+#EXTINF:-1 tvg-logo="" group-title="",Reng 
+http://sansat.co:88/6407f699f50b/KEIO5VDEKZ/190046
+#EXTINF:-1 tvg-logo="" group-title="",Shaista 
+http://sansat.co:88/6407f699f50b/KEIO5VDEKZ/190047
+#EXTINF:-1 tvg-logo="" group-title="",Iraqia Kurdish 
+http://sansat.co:88/6407f699f50b/KEIO5VDEKZ/190053
+
+
 #EXTINF:-1 tvg-logo="" group-title="", quran peshawa
 http://164.215.98.132:2082/05312993875/52G826825G/71444
