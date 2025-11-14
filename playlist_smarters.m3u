@@ -586,6 +586,9 @@ http://141.98.115.53/live/111/111/1196.ts
 http://141.98.115.53/live/111/111/1197.ts
 #EXTINF:-1 tvg-logo="" group-title="", Xabir FM
 http://royalibox.com/play/live.php?mac=00:1A:79:4B:99:EA&stream=456279&extension=ts&play_token=CLoU7aEgQ1
-
+#EXTINF:-1 tvg-logo="" group-title="", Qalam Kids
+https://live20.bozztv.com/akamaissh101/ssh101/qallamkids/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Qalam Aini
+https://live20.bozztv.com/akamaissh101/ssh101/qallamayni/playlist.m3u8
 
 
