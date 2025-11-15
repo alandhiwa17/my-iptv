@@ -592,5 +592,36 @@ https://live20.bozztv.com/akamaissh101/ssh101/qallamkids/playlist.m3u8
 https://live20.bozztv.com/akamaissh101/ssh101/qallamayni/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="", Family Raparin
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:00:20:45&stream=1310904&extension=ts&play_token=AlmEBUQEIS
-
+#EXTINF:-1 tvg-logo="" group-title="", Reng Sport
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:00:20:45&stream=1310852&extension=ts&play_token=CVH0Z1i8zl
+#EXTINF:-1 tvg-logo="" group-title="", Astera Baby
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:00:20:45&stream=1310844&extension=ts&play_token=4L0Usg395E
+#EXTINF:-1 tvg-logo="" group-title="", Raman
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:00:20:45&stream=1310836&extension=ts&play_token=0V9nsUB5pW
+#EXTINF:-1 tvg-logo="" group-title="", Speda Drama
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:00:20:45&stream=1310817&extension=ts&play_token=46nbr6Kwgl
+#EXTINF:-1 tvg-logo="" group-title="", Animal Box
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:00:20:45&stream=1310814&extension=ts&play_token=CSpsVDTAlP
+#EXTINF:-1 tvg-logo="" group-title="", Nrt4
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:00:20:45&stream=1310932&extension=ts&play_token=ed80VNPgIG
+#EXTINF:-1 tvg-logo="" group-title="", Astera Doc
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:00:20:45&stream=201934&extension=ts&play_token=ggrwwoaspL
+#EXTINF:-1 tvg-logo="" group-title="", Babuly
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:00:20:45&stream=202070&extension=ts&play_token=vUIHx9GDRG
+#EXTINF:-1 tvg-logo="" group-title="", Noor 4K
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:00:20:45&stream=380802&extension=ts&play_token=4hkIm3UA34
+#EXTINF:-1 tvg-logo="" group-title="", Cartoon 
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:00:20:45&stream=202035&extension=ts&play_token=q4cu5gpG8g
+#EXTINF:-1 tvg-logo="" group-title="", Lalav Group 
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:79:AA:08&stream=1310903&extension=ts&play_token=9RJTpvyiDd
+#EXTINF:-1 tvg-logo="" group-title="", Kmp
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:79:AA:08&stream=1310878&extension=ts&play_token=NvMgb0boMC
+#EXTINF:-1 tvg-logo="" group-title="", Astera Culuter
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:79:AA:08&stream=1310865&extension=ts&play_token=ZqltMNhj2J
+#EXTINF:-1 tvg-logo="" group-title="", Spi Quran
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:79:AA:08&stream=1310838&extension=ts&play_token=6oLTmHIU10
+#EXTINF:-1 tvg-logo="" group-title="", Juddy
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:79:AA:08&stream=1310826&extension=ts&play_token=WVAvr6Pr8b
+#EXTINF:-1 tvg-logo="" group-title="", Srusht
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:79:AA:08&stream=1310824&extension=ts&play_token=YDqfjGrmzG
 
