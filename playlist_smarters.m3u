@@ -698,7 +698,7 @@ http://aabb.is:2095/play/live.php?mac=A0:BB:3E:9F:9D:D8&stream=1035268&extension
 http://aabb.is:2095/play/live.php?mac=A0:BB:3E:9F:9D:D8&stream=1035263&extension=ts&play_token=IXPX7R6fVJ
 #EXTINF:-1 tvg-logo="Kurdish" group-title="Kurdish", Slemani Show
 http://aabb.is:2095/play/live.php?mac=A0:BB:3E:9F:9D:D8&stream=1035267&extension=ts&play_token=PwP63rmS5v
-#EXTINF:-1 tvg-logo="Kurdish" group-title="Kurdish", Soran Kids
+#EXTINF:-1 tvg-logo="https://chatgpt.com/backend-api/estuary/content?id=file_00000000a5cc71f5a72f8a718e8504f8&ts=490284&p=fs&cid=1&sig=51629559ed86869d0c41cbb86abb7bf522379137bda9b3f9dbbd94920c051fc3&v=0" group-title="Kurdish", Soran Kids
 http://aabb.is:2095/play/live.php?mac=A0:BB:3E:9F:9D:D8&stream=1035228&extension=ts&play_token=8hmaO5tEdn
 #EXTINF:-1 tvg-logo="Kurdish" group-title="Kurdish", Like Movies +
 http://aabb.is:2095/play/live.php?mac=A0:BB:3E:9F:9D:D8&stream=932110&extension=ts&play_token=AaB1H11RaY
