@@ -616,15 +616,15 @@ http://204.52.191.254:80/play/live.php?mac=00:1A:79:00:20:45&stream=202035&exten
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:79:AA:08&stream=1310903&extension=ts&play_token=9RJTpvyiDd
 #EXTINF:-1 tvg-logo="Kurdish" group-title="Kurdish", Kmp
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:79:AA:08&stream=1310878&extension=ts&play_token=NvMgb0boMC
-#EXTINF:-1 tvg-logo="Kurdish" group-title="Kurdish", Astera Culuter
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PGLj4d9H/IMG-1804.jpg" group-title="Kurdish", Astera Culuter
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:79:AA:08&stream=1310865&extension=ts&play_token=ZqltMNhj2J
-#EXTINF:-1 tvg-logo="Kurdish" group-title="Kurdish", Spi Quran
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gLTsJCsY/IMG-1802.jpg" group-title="Kurdish", Spi Quran
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:79:AA:08&stream=1310838&extension=ts&play_token=6oLTmHIU10
-#EXTINF:-1 tvg-logo="Kurdish" group-title="Kurdish", Juddy
+#EXTINF:-1 tvg-logo="https://i.ibb.co/svbzxNZZ/IMG-1801.jpg" group-title="Kurdish", Juddy
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:79:AA:08&stream=1310826&extension=ts&play_token=WVAvr6Pr8b
-#EXTINF:-1 tvg-logo="Kurdish" group-title="Kurdish", Srusht
+#EXTINF:-1 tvg-logo="https://i.ibb.co/chynV5s0/IMG-1798.jpg" group-title="Kurdish", Srusht
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:79:AA:08&stream=1310824&extension=ts&play_token=YDqfjGrmzG
-#EXTINF:-1 tvg-logo="Kurdish" group-title="Kurdish", Astera Movies
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NgvbH6MT/IMG-1797.jpg" group-title="Kurdish", Astera Movies
 http://line.atlaspro4k.me:80/play/live.php?mac=00:1A:79:D5:8D:1E&stream=588392&extension=ts&play_token=xUpU1QuXRU
 #EXTINF:-1 tvg-logo="Kurdish" group-title="Kurdish", Tasawf
 http://185.243.7.141:80/play/live.php?mac=00:1A:79:0D:A0:18&stream=987962&extension=ts&play_token=crCDZVdX1c
@@ -632,35 +632,23 @@ http://185.243.7.141:80/play/live.php?mac=00:1A:79:0D:A0:18&stream=987962&extens
 http://185.243.7.141:80/play/live.php?mac=00:1A:79:0D:A0:18&stream=324747&extension=ts&play_token=gTtMJrOkzx
 #EXTINF:-1 tvg-logo="Kurdish" group-title="Kurdish", Van 1
 http://185.243.7.141:80/play/live.php?mac=00:1A:79:0D:A0:18&stream=695249&extension=ts&play_token=zVQjKhdPLS
-#EXTINF:-1 tvg-logo="Kurdish" group-title="Kurdish", Zarok Sorani
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xSCTrpf1/IMG-1795.jpg" group-title="Kurdish", Zarok Sorani
 https://zindisorani.zaroktv.com.tr/hls/stream.m3u8
-#EXTINF:-1 tvg-logo="Kurdish" group-title="Kurdish", Kurdana
-http://lllllldsa1iiidsa9.funtogether.xyz:8080/PjeterCubi/wKBdCArTZW/124442?play_token=xneoBA06UY
-#EXTINF:-1 tvg-logo="Kurdish" group-title="Kurdish", Sahar Kurdish
-http://blomc.rtmp.io:80/play/live.php?mac=00:1A:79:00:09:12&stream=1310921&extension=ts&play_token=dGhy3Tok2q
-#EXTINF:-1 tvg-logo="Kurdish" group-title="Kurdish", Halabja
-http://blomc.rtmp.io:80/play/live.php?mac=00:1A:79:00:09:12&stream=1310883&extension=ts&play_token=xciFhGAFa9
-#EXTINF:-1 tvg-logo="Kurdish" group-title="Kurdish", bnar Family
-http://blomc.rtmp.io:80/play/live.php?mac=00:1A:79:00:09:12&stream=1310868&extension=ts&play_token=o9eo9CL9LJ
-#EXTINF:-1 tvg-logo="Kurdish" group-title="Kurdish", NewMax Box
-http://blomc.rtmp.io:80/play/live.php?mac=00:1A:79:00:09:12&stream=380724&extension=ts&play_token=HnbziGVr0h
-#EXTINF:-1 tvg-logo="Kurdish" group-title="Kurdish", Krd Cartoon
-http://blomc.rtmp.io:80/play/live.php?mac=00:1A:79:00:09:12&stream=202035&extension=ts&play_token=mgJmn0Tmy8
-#EXTINF:-1 tvg-logo="Kurdish" group-title="Kurdish", Ace Arabic
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JFBQ9znR/IMG-1793.jpg" group-title="Kurdish", Ace Arabic
 http://aabb.is:2095/play/live.php?mac=A0:BB:3E:9F:9D:D8&stream=1035270&extension=ts&play_token=jOYhVMz3am
-#EXTINF:-1 tvg-logo="Kurdish" group-title="Kurdish", Ace Doc Kurd
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GQZjMgzM/IMG-1792.jpg" group-title="Kurdish", Ace Doc Kurd
 http://aabb.is:2095/play/live.php?mac=A0:BB:3E:9F:9D:D8&stream=932078&extension=ts&play_token=7tbVI4pbU1
-#EXTINF:-1 tvg-logo="Kurdish" group-title="Kurdish", Ace Gaming
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HTL4YvgG/IMG-1791.jpg" group-title="Kurdish", Ace Gaming
 http://aabb.is:2095/play/live.php?mac=A0:BB:3E:9F:9D:D8&stream=1035274&extension=ts&play_token=ehaXqWd9sg
-#EXTINF:-1 tvg-logo="Kurdish" group-title="Kurdish", Ace Kids
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DDszmL0K/IMG-1789.jpg" group-title="Kurdish", Ace Kids
 http://aabb.is:2095/play/live.php?mac=A0:BB:3E:9F:9D:D8&stream=1035272&extension=ts&play_token=yRPipRG8H7
-#EXTINF:-1 tvg-logo="Kurdish" group-title="Kurdish", Ace Movies
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mrkxRkTF/IMG-1787.jpg" group-title="Kurdish", Ace Movies
 http://aabb.is:2095/play/live.php?mac=A0:BB:3E:9F:9D:D8&stream=1035271&extension=ts&play_token=9EnlBRDxuc
-#EXTINF:-1 tvg-logo="Kurdish" group-title="Kurdish", Ace Music
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XxSwdH6R/IMG-1785.jpg" group-title="Kurdish", Ace Music
 http://aabb.is:2095/play/live.php?mac=A0:BB:3E:9F:9D:D8&stream=932151&extension=ts&play_token=p6F9GbWEDO
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jkPsfJgq/IMG-1784.jpg" group-title="Kurdish", Ace Nature
 http://aabb.is:2095/play/live.php?mac=A0:BB:3E:9F:9D:D8&stream=1035273&extension=ts&play_token=clxE0LzCnB
-#EXTINF:-1 tvg-logo="Kurdish" group-title="Kurdish", Ace Quran
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7dTczMnj/IMG-1786.jpg" group-title="Kurdish", Ace Quran
 http://aabb.is:2095/play/live.php?mac=A0:BB:3E:9F:9D:D8&stream=1035269&extension=ts&play_token=EWSJqzcos9
 #EXTINF:-1 tvg-logo="Kurdish" group-title="Kurdish", Chamchamal
 http://aabb.is:2095/play/live.php?mac=A0:BB:3E:9F:9D:D8&stream=931958&extension=ts&play_token=gIxeHXJMy5
