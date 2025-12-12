@@ -39,9 +39,9 @@ http://avrstream.com:1935/live/SHARTV/playlist.m3u8
 https://live20.bozztv.com/giatv/giatv-spitv4k_kamalblbas/spitv4k_kamalblbas/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/Q006vSAQuNmRct1UccvM9_HyvyJuefyzgijLWQC0KhbXW1MSPsrsRthkloBXd5hUWExSGlY_vQ=s900-c-k-c0x00ffffff-no-rj" group-title="Kurdish", BANGAWAZ BADINI
 http://bangxwazen.badinan.xyz:1935/live/Bangxwazen-Badinan/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://likesyria.sy/imgs/logo/launcher.png" group-title="Kurdish", LIKE TV
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpUzhZZxDPCH_JZlfvI8kk6hdQ-azB7tXufg&s" group-title="Kurdish", LIKE TV
 https://live20.bozztv.com/giatv/giatv-likemovies+/likemovies+/chunks.m3u8
-#EXTINF:-1 tvg-logo="http://widget.ottplayer.tv/upictures/0175bf40-ca28-45fc-8f4d-c515529b0f2d.png" group-title="Kurdish", SHNA TV HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJAH473VSxonn1Yt7amYpcw6qH8i3DOs_RQQ&s" group-title="Kurdish", SHNA TV HD
 http://shnatv.ddns.net:1935/live/shnatv/media_w2050914671_1703.m3u8
 #EXTINF:-1 tvg-logo="https://karwan.tv/wp-content/uploads/imk-quran.jpg" group-title="Kurdish", IMK QURAN TV
 http://avrstream.com:1935/live/IMKQURANHD/media_w332990092_37008.m3u8
@@ -57,12 +57,8 @@ http://baskhd.ddns.net:40/live//barinmovieSHD/media_w487164538_1382.m3u8
 http://baskhd.ddns.net:40/live/BarinfamilyHD/media_w2140732852_1389.m3u8
 #EXTINF:-1 tvg-logo="https://kurdmaxcms.com/asset/image/page/show-760-x-760_1.png" group-title="Kurdish", KURDMAX SHOW
 https://6476e46b58f91.streamlock.net/liveTrans/SHOWS123/chunklist_w175440249.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/7e/77/f2/7e77f225cc3a4da714fee9a126f6da1e.jpg" group-title="Sport VIP", Duhok sport
-http://duhok.badinan.xyz:1935/live/DuhokTV/chunklist_w1036962996.m3u8
 #EXTINF:-1 tvg-logo="https://karwan.tv/wp-content/uploads/mmn-tv-528x297.png" group-title="Kurdish", MMN NEWS HD
 http://mmn.mypsx.net:1935/live/mmnhdnews/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwjKm96r6OpMAlW7XX_Y6pOvV71UIO7I9MfA&s" group-title="Kurdish", Nrt hd
-http://media-ott.vip:80/play/live.php?mac=00:1A:79:00:0C:27&stream=818054&extension=ts&play_token=EUM9BGEiDk
 #EXTINF:-1 tvg-logo="https://www.kurdsat.tv/_next/image?url=https%3A%2F%2Fportal.kurdsat.tv%2Fuploads%2Flogo_c20f3dd435.png&w=64&q=75" group-title="Kurdish", Kurdsat HD
 https://hlspackager.akamaized.net/live/DB/KURDSAT_HD/HLS/KURDSAT_HD-avc1_2500000=10002.m3u8
 #EXTINF:-1 tvg-logo="https://news.kurdsat.tv/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo.746cd993.png&w=3840&q=75" group-title="Kurdish", Kurdsat News HD
@@ -71,24 +67,19 @@ https://hlspackager.akamaized.net/live/DB/KURDSAT_NEWS/HLS/KURDSAT_NEWS-mp4a_128
 https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/chunklist_w1790905875_b1700000_sleng_t64MTA4MHA=.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBXPoRI5X5L8cMflb_5V5_BEq_FPg4ZavDIg&s" group-title="Kurdish", GK
 https://live.host247.net/gk/gksat/chunklist_w1047231487.m3u8
-#EXTINF:-1 tvg-logo="https://amozhgary.tv/style/img/logo.png" group-title="Kurdish", Amozhgare
-https://app-live.org/live/3268334b/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTS1WisKhfLUY0_cyzohwDvfgeUZvLqP5bRFg&s" group-title="Kurdish", LINKEMOVES2
-https://live9.karwan.tv/LINKEMOVES2/index.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FsQhPDOXsAAoS5z?format=jpg&name=large" group-title="Kurdish", Ravand HD
 http://ravandtv.badinan.xyz:1935/live/RAVAND-HD/HawezHD.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiJK6MmFJhdMe60hQU2-vK7rmxMPv3tOPtxg&s" group-title="Kurdish", Rudaw FHD
 https://svs.itworkscdn.net/rudawlive/rudawlive.smil/rudawpublish/rudawtv_720p/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/Um3X2mCrh__3kvhqUTXO58izyJvp7tMGQaVLczmtQVxtg6e1vsgpGIA_xZA1pmOB3FQp" group-title="Kurdish", hadath
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/Um3X2mCrh__3kvhqUTXO58izyJvp7tMGQaVLczmtQVxtg6e1vsgpGIA_xZA1pmOB3FQp" group-title="Kurdish", Hadath Arabic
 https://live.alarabiya.net/alarabiapublish/alhadath.smil/alarabiapublish/alhadath_720p/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRla9IBX9MeJc04fvHHEPlbSGVGLoEoglUw1-FbHjRodQ31IVIQfs7RdFOIzlL0G93TVY&usqp=CAU" group-title="Kurdish", KANAL 21
 http://k21hd.mypsx.net:40/live/KANALI/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-ExUfbd_5TUV_FIr1Jl3jOFu0OwgwBm8u-A&s" group-title="Kurdish", Mihrab FM
 http://bblserver.ddns.net:1935/live/mihrabfm/chunklist_w685471767.m3u8
-#EXTINF:-1 tvg-logo="https://karwan.tv/wp-content/uploads/ava-media.jpg" group-title="Kurdish", ava
+#EXTINF:-1 tvg-logo="https://karwan.tv/wp-content/uploads/ava-media.jpg" group-title="Kurdish", Ava HD
 http://app-plus.live:80/16352526000642176872/zidqkkxi25wqac17b5qe/50217
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRojuXAt_pwYtkWHyRgZiIUz7abDFizW-8X5JEChnbo7PKyXm3RTIPguBis_lPIKqCRN2U&usqp=CAU" group-title="Kurdish", Zever
-http://rechahd.xyz:80/live/443432469215731/4362020837/771666.ts
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRc1-SdoiVifuspQkaNIlkpGHHPeLyzvr_9Wg&s" group-title="Kurdish", Esra HD
 https://live20.bozztv.com/giatv/giatv-ESRAHD/ESRAHD/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZ8M1Wqlc6fLKTpmYhX-zd_TZU5g-jYYN6Lw&s" group-title="Kurdish", Kurdmax HD
@@ -109,19 +100,12 @@ https://dl23.mp4.ir/video/2025/8/321750-75206797/m3u8/720p/out.m3u8
 http://streamcdn.us:8080/live/98778676754/88526902544/119678.ts
 #EXTINF:-1 tvg-logo="Kurdish" group-title="Kurdish",NewLine Boolywood
 https://dl23.mp4.ir/video/2025/8/321750-811074939/m3u8/1080p/out.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcsfj5h3nd5p2cISkkZTF1F51eEDIN8eSf2w&s" group-title="Kurdish", zaxo
-http://superintendent.whatevergos.com:2095/1287598268558/iPy331PAM5/162751
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFAVFX9fDNA9LVNbgCnSluou_WqISOfFarjA&s" group-title="Kurdish", Sada Tv
 http://sada-hd.ddns.net:40/live/sadatv/chunklist_w835259428.m3u8
-#EXTINF:-1 tvg-logo="Kurdish" group-title="Kurdish",Babuly
-http://iptv.nextnet.krd:25461/12920/4516/4703
-#EXTINF:-1 tvg-logo="http://widget.ottplayer.tv/upictures/f684ef9b-0687-476a-9eb4-ee5d62729a08.png" group-title="Kurdish", UTV Hawler
-http://technologycloud.eu/play/live.php?mac=00:1A:79:00:2A:75&stream=324667&extension=ts&play_token=ckXDGIXpRh
 
-#EXTINF:-1 tvg-logo="http://widget.ottplayer.tv/upictures/11f95e8a-26ed-428e-9327-3d6ed60deaa3.png" group-title="Kurdish", Rassan
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQv9Apq3aWZmj3RV-tnEqKA83OZQ8aFNj3w5Q&s" group-title="Kurdish", Rassan
 http://st1activ.com:80/tarek50/hyfhdyier/429810
-#EXTINF:-1 tvg-logo="Kurdish" group-title="Kurdish",Chihan
-http://rechahd.xyz:80/live/443432469215731/4362020837/771661.ts
+
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/dgvgigu3MzQ8AMIlj2tD7-cqsz_MKbGf7ic3X5F7uOxe9smjIfiJ6pu3EFcl8YwFi5LzOyfU2g=s900-c-k-c0x00ffffff-no-rj" group-title="Kurdish", Nrt 4
 https://live20.bozztv.com/giatv/giatv-nrt4stream/nrt4stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/opbbttvUjd80w7GYRDXTpNYhKn2ZubB9e4Ve67sVUeMFP431nR3g5__Ddec1yK_VJTVVPVMmvw=s900-c-k-c0x00ffffff-no-rj" group-title="Kurdish", K24 Docmentry
@@ -136,17 +120,13 @@ http://213.32.255.86:1935/live/Qellat_tv/chunklist_w1176160636.m3u8
 https://live20.bozztv.com/giatv/giatv-sharqurantv/sharqurantv/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://widget.ottplayer.tv/upictures/bdd5cc5a-0d0e-4f61-83d9-8e2ab0cd6401.png" group-title="Kurdish", IMK HD
 http://imkhd.ddns.net:1935/live/imkhd/chunklist_w375917995.m3u8
-#EXTINF:-1 tvg-logo="http://widget.ottplayer.tv/upictures/3e5970c3-3a3a-40ee-916e-8b0a78947fe7.png" group-title="Kurdish", istar Quran
-https://live20.bozztv.com/giatv/giatv-istar4ktv/istar4ktv/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://widget.ottplayer.tv/upictures/d2301499-73a5-4fa3-a500-415853e3bb08.png" group-title="Kurdish", Garyan Media
 https://live20.bozztv.com/giatv/giatv-halabja88garyan/halabja88garyan/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://widget.ottplayer.tv/upictures/71493f55-c779-41bd-a311-def1bda064ac.png" group-title="Kurdish", Bask
 http://baskhd.ddns.net:40/live/baskhd/chunklist_w586445309.m3u8
-#EXTINF:-1 tvg-logo ="https://yt3.googleusercontent.com/IVyku6yuvBkRt11arMdoCalnWhZRP-ZtkT2bmRYw4gKnZTbZKoWJXMiim9RMxwb7dvB9aqEsHw=s900-c-k-c0x00ffffff-no-rj" group-title="Kurdish",Ld Nujin
-http://ktkguru.com/live/056DC1997A7C/12D4FA6617E8/732981.m3u8
 #EXTINF:-1 tvg-logo="https://alnasershop.com/wp-content/uploads/2021/01/rediptv-1.jpg" group-title="Kurdish", Red Tv
 http://avrstream.com:1935/live/REDTV/chunklist_w759764586.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZ4i_gTxNFM9kiMfWq7nK8dCdxgyTXedmk6Q&s" group-title="Kurdish", Qalam HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZ4i_gTxNFM9kiMfWq7nK8dCdxgyTXedmk6Q&s" group-title="Kurdish", Befrin HD
 http://st1activ.com:80/tarek50/hyfhdyier/429807
 
 
@@ -173,8 +153,7 @@ https://4kuhls.persiana.live/hls/stream.m3u8
 #EXTINF:-1  group-title="Kurdish", MMN DRAMA
 http://mmn.mypsx.net:1935/live/mmnhddrama/chunklist_w123688418.m3u
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYafT5RZNy7pGm6GCgCmQ9md_86wsE_3iE_w&s" group-title="Kurdish", BAHA ENTERTAINMENT ᵁᴴᴰ
-http://app-plus.live:80/4qoq1y7yu4/j4wtif2te5/280448
+
 
 
 #EXTINF:-1 tvg-logo="https://www.aljazeera.net/static/media/aj-logo-white.24cf5afb.svg" group-title="Arabic", Al Jazera
@@ -198,37 +177,13 @@ https://tv-trtarabi.medya.trt.com.tr/master_1080.m3u8
 #EXTINF:-1  group-title="Arabic", Al Iraqia News
 http://cdn.catiacast.video/abr/78054972db7708422595bc96c6e024ac/playlist.m3u8
 
-#EXTINF:-1  group-title="Arabic", Al Arabia
-https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/playlist.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxgYHgSM9PlIv0S7xSlYJ9vWacEfgEG3aVBQ&s" group-title="Sport VIP", ALWAN SPORT 2
 http://soft24f.net/live/6872c3410e8cibopro/22bcpapc/237017.ts
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHWH7Hw5NULwz5QeVmooyTFHCboegyq19YLw&s" group-title="Kurdish", AZADI TV
-http://st1activ.com/live/tarek50/hyfhdyier/429677.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiUpY8QTxIXQ-T65OVQfiiv4jz1iC3aFqhfg&s" group-title="Kurdish", LD FAMILY
-http://116342296971.d4ktv.info/live/pufgm3yvzs/9d4kjtpsy2/280484.ts
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrvDWbBg-XOC2XlyPq2aBqeb_7TcF8WGTOyA&s" group-title="Kurdish", Fox
-http://streamcdn.us:8080/live/soraj/07504648083/115338.ts
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQe9qj9covH_edIdNokGkTZGCdgkq3A5jiLaw&s" group-title="Kurdish", NAQSHI MEDIA
-http://naqshi-media.com:1935/live/NaqshiMedia/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/UXvZiLGLymDKPmnkyhiISdXLOIOYTGfOQwt-R2WERdzU39QENY51-Z0pLSS8-4HSFIw=w240-h480-rw" group-title="Sport VIP", Zaxo Sport
-http://rechahd.xyz:80/live/443432469215731/4362020837/344543.ts
-
-
-
-#EXTINF:-1 tvg-logo="https://mixmedia.tv/wp-content/uploads/2020/06/Nishtimani-mn-TV-768x460.png" group-title="Kurdish", Nishtmany
-http://streamcdn.us:8080/live/soraj/07504648083/119556.ts
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnBZtc5pF0c_IQdVQDZZc70b4gvJcIKLSEPg&s" group-title="Kurdish", Xabir Tv
-http://royalibox.com/play/live.php?mac=00:1A:79:4B:99:EA&stream=456279&extension=ts&play_token=CLoU7aEgQ1
 
 #EXTINF:-1 tvg-logo="https://karwan.tv/wp-content/uploads/newline-528x297.png" group-title="Kurdish", NewLine 2
 http://royalibox.com/play/live.php?mac=00:1A:79:4B:99:EA&stream=129900&extension=ts&play_token=JWnXKVbj5g
@@ -236,8 +191,7 @@ http://royalibox.com/play/live.php?mac=00:1A:79:4B:99:EA&stream=129900&extension
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/5_MBC.webp" group-title="Kurdish", MBC 5
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-5/ee6b000cee0629411b666ab26cb13e9b/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLvC4F3tIEX7Ocx-__Mdt3vwRaBHqaaXkNfg&s" group-title="Kurdish", MBC Action
-http://vpn.iptvtiger2.xyz/play/live.php?mac=00:1A:79:57:20:B1&stream=189441&extension=ts
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSG2pz2O_ReFkxeMsoPRetv6dB7dGAhJuiQKQ&s" group-title="Kurdish", MBC MASR 1
 https://shls-masr-enc.edgenextcdn.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index.m3u8
@@ -245,27 +199,12 @@ https://shls-masr-enc.edgenextcdn.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/in
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/MBC_Masr_2_Logo.svg/1200px-MBC_Masr_2_Logo.svg.png" group-title="Kurdish", Mbc Masr 2
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-2/754931856515075b0aabf0e583495c68/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://karwan.tv/wp-content/uploads/newline-528x297.png",Newline
-https://live9.karwan.tv/Newlineyusfstore/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://karwan.tv/wp-content/uploads/jamawar-tv.jpg" group-title="Kurdish", JAMMAWAR
-http://app-plus.live:80/4qoq1y7yu4/j4wtif2te5/280426
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn2Qu7sBuMhCR3G_DdeLeO9mNbocKGFn6eVw&s" group-title="Kurdish", Kurd Cinema 3
-http://vpn.iptvtiger2.xyz/play/live.php?mac=00:1A:79:57:20:B1&stream=1859071&extension=ts&play_token=...
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZYtpyDfyuA0d20RbvP3gfTcoOYp3R2jMoew&s" group-title="Sport VIP",AVA Sport
 https://live9.karwan.tv/Avasporttusfstore/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://karwan.tv/wp-content/uploads/kurdmax-pepule-528x297.jpg" group-title="Kids Vip", Kurdmax Papula
-http://line.atlaspro4k.me:80/play/live.php?mac=00:1A:79:D5:8D:1E&stream=588458&extension=ts&play_token=UNbZyBx5W5
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn2Qu7sBuMhCR3G_DdeLeO9mNbocKGFn6eVw&s" group-title="Kurdish", Kurd Cinema 2
-http://vpn.iptvtiger2.xyz/play/live.php?mac=00:1A:79:57:20:B1&stream=1859073&extension=ts
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ689h3ehg3yOSMHQTGtZLWAMzwZv4qKUtv_g&s" group-title="Kurdish", Slemani Art
-http://ares-tv.xyz:8080/play/live.php?mac=00:1A:79:AA:75:04&stream=572977&extension=ts&play_token=...
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbN_egi0a177PHzJoWwYa6Icv1JmFNgt4t4Q&s" group-title="Kurdish", Dasinya Tv
 http://st1activ.com:80/tarek50/hyfhdyier/429707
@@ -273,53 +212,33 @@ http://st1activ.com:80/tarek50/hyfhdyier/429707
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5B9oM14aJWsr11m_qRsRDIGArp_nqVJuSPA&s" group-title="Kurdish", Wild Earth
 https://wildearth-plex.amagi.tv/masterR1080p.m3u8
 
-#EXTINF:-1 tvg-logo="Kurdish" group-title="Kurdish",Niga Moveis
-http://streamcdn.us:8080/live/soraj/07504648083/29503.ts
 
-#EXTINF:-1 tvg-logo="Kurdish" group-title="Kurdish",Astera Family
-http://technologycloud.eu/play/live.php?mac=00:1A:79:00:2A:75&stream=324615&extension=ts&play_token=CcdjqVhrjr
+
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUZ66BGS0AKkYYKYtiM1jIwRNEwe3fH_WmgA&s" group-title="Kurdish", Amozhgare
 https://app-live.org/live/3268334b/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://karwan.tv/wp-content/uploads/zaxo-sport-528x297.jpg" group-title="Kurdish", Zaxo Sport
-http://vpn.iptvtiger2.xyz/play/live.php?mac=00:1A:79:57:20:B1&stream=987926&extension=ts
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn2Qu7sBuMhCR3G_DdeLeO9mNbocKGFn6eVw&s" group-title="Kurdish", KURD CINEMA 1
-http://vpn.iptvtiger2.xyz/play/live.php?mac=00:1A:79:57:20:B1&stream=1859074&extension=ts&play_token=...
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn2Qu7sBuMhCR3G_DdeLeO9mNbocKGFn6eVw&s" group-title="Kurdish", KURD CINEMA 4
-http://vpn.iptvtiger2.xyz/play/live.php?mac=00:1A:79:57:20:B1&stream=1859065&extension=ts&play_token=...
+
 
 
 #EXTINF:-1 tvg-logo="https://bmctv.krd/images/logo.png" group-title="Kurdish", BMC TV
 http://st1activ.com:80/tarek50/hyfhdyier/429686
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxpWFb4TWoQpe7ZvC0E8Yx3euSMt2EghoFQg&s" group-title="Sport VIP", Post Sport
-http://smarthd.otts.pro/live/70:2a:d5:24:f7:1d/II2L8KUVXZ/1581334.ts
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4zarFbDgDRoJo85LfNWMyo1tO_XFp4s-IMg&s",Darwaza Tv
-http://iptv.nextnet.krd:25461/12920/4516/104
 
 
-#EXTINF:-1 tvg-logo="https://mixmedia.tv/wp-content/uploads/2020/06/Niga-family.png", Niga Family
-http://streamcdn.us:8080/live/soraj/07504648083/119551.ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfGjzdImyVyVdrBPYHymePUI5eV0ZP7TzZsA&s",Shaista HD
 http://v3tv.live:80/play/live.php?mac=00:1A:79:27:82:95&stream=129924&extension=ts&play_token=eGxN0YdCCV
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVXiUiPYoGrWDyX4BX7buoNGu-h1uf0MPpFw&s",Speda Drama
-http://app-plus.live/live/9ctxb69npg/bak84p4jru/129929.ts
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzucpRmkr8NQpHv0nK20kASO0_dvoNhtngBw&s", Srusht ᴴᴰ
-http://new.tryv24.shop:80/Nboxtv_857858/KsAKkuKx/129931
 
 
 #EXTINF:-1 tvg-logo="https://ih1.redbubble.net/image.1537432242.4989/ur group-title="Kurdish",BINER ᴴᴰ
 http://app-plus.live:80/4qoq1y7yu4/j4wtif2te5/150589
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSz0ezCtVLXLdnX_sgQX_Z_FAf_OyHJNUDGVg&s",Azhin ᴴᴰ
-http://app-plus.live:80/4qoq1y7yu4/j4wtif2te5/312565
 
 #EXTINF:-1 tvg-logo="https://ih1.redbubble.net/image.1537432242.4989/ur group-title="Kurdish",DEVER
 http://st1activ.com:80/tarek50/hyfhdyier/429716
@@ -328,20 +247,12 @@ http://st1activ.com:80/tarek50/hyfhdyier/429716
 http://streamcdn.us:8080/live/98778676754/88526902544/141654.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/GcijP-nowrtC4-T41hnZrd1ADGdQfrfNH07aUJHZIYM-c7QbN7g7GTqK2SMUL_RZPF_Bh-gT_g=s900-c-k-c0x00ffffff-no-rj", Iraqia Kurdish TV
-http://new.tryv24.shop:80/Nboxtv_857858/KsAKkuKx/129956
 
 #EXTINF:-1 tvg-logo="https://karwan.tv/wp-content/uploads/med-muzik-tv.png",Med Music TV ku
 http://54.36.110.140/live3/live3.m3u8
 
-#EXTINF:-1 tvg-logo="https://app.qallam.net//media/4dafb58b-138b-4bb2-bbd8-4c4c56d96604%D8%AA%D9%88%DB%8C%DA%86%20%D9%82%DB%95%DA%B5%DB%95%D9%85.png",QALAM TV
-http://new.tryv24.shop:80/Nboxtv_857858/KsAKkuKx/312553
 
-#EXTINF:-1 tvg-logo="https://mixmedia.tv/wp-content/uploads/2022/08/aro-family.png",Aro Family
-http://streamcdn.us:8080/live/soraj/07504648083/119583.ts
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRk8MJboHSumJI0mlncBd0ipxpnDfX9QU0MQ&s",Dever
-http://app-plus.live:80/4qoq1y7yu4/j4wtif2te5/456261
 
 #EXTINF:-1 tvg-logo="https://ih1.redbubble.net/image.1537432242.4989/ur group-title="Kurdish",Delal HD
 http://new.tryv24.shop:80/Nboxtv_857858/KsAKkuKx/312580
@@ -349,8 +260,6 @@ http://new.tryv24.shop:80/Nboxtv_857858/KsAKkuKx/312580
 #EXTINF:-1 tvg-logo="https://ih1.redbubble.net/image.1537432242.4989/ur group-title="Kurdish",first HD
 http://new.tryv24.shop:80/Nboxtv_857858/KsAKkuKx/312584
 
-#EXTINF:-1 tvg-logo="https://ih1.redbubble.net/image.1537432242.4989/ur" group-title="Kurdish",Hormzyar
-http://avrstream.com:1935/live/HormzyarHD/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://ih1.redbubble.net/image.1537432242.4989/ur group-title="Kurdish",Kalapor HD
 http://duab.xyz:80/0BVBLFTX6419WV7/WUmNVfPNee/805763
@@ -358,14 +267,6 @@ http://duab.xyz:80/0BVBLFTX6419WV7/WUmNVfPNee/805763
 #EXTINF:-1 tvg-logo="https://ih1.redbubble.net/image.1537432242.4989/ur group-title="Kurdish",Kurd Cinema
 http://xc-clubtv.xyz:8080/play/live.php?mac=00:1A:79:19:20:01&stream=645425&extension=ts&play_token=CmV141k2kE
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJTv5HITW3tSUHI3f7UuScUIhbAjW6pkTkS4uSRYe6Qh4fyQonSFukaA-QuX4fCwvGN2g&usqp=CAU" group-title="Kurdish",Newline 2
-http://rechahd.xyz:80/live/443432469215731/4362020837/54031.ts
-
-#EXTINF:-1 tvg-logo="https://ih1.redbubble.net/image.1537432242.4989/ur group-title="Kids Vip",Newline KIDS
-http://new.tryv24.shop:80/Nboxtv_857858/KsAKkuKx/312649
-
-#EXTINF:-1 tvg-logo="https://newlinehd.com/images/nopic.jpg" group-title="Kurdish",Newline Movies
-http://rechahd.xyz:80/live/443432469215731/4362020837/805774.ts
 
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_ny_X58pMqP63ZRkvoAyn7KwWrENN0NMIaedEe3AJiL7wA=s900-c-k-c0x00ffffff-no-rj" group-title="Kurdish",Rozh ᴴᴰ
@@ -382,14 +283,10 @@ http://fuego-iptv.net/play/live.php?mac=00:1A:79:4E:54:58&stream=312652&extensio
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/yN0ApyytrbJyjFeYlapnLHB8trK9omYwYXVrqEmcHEmu4ttGAesy-XiboEDRLQXbmQhJ7hyvBg=s900-c-k-c0x00ffffff-no-rj" group-title="Kids Vip",NIGA KIDS ᴴᴰ
 http://fuego-iptv.net/play/live.php?mac=00:1A:79:4E:54:58&stream=312657&extension=ts
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrqwBZNhkuBQ8TN-ONxM_9rdRjBjr2dFwFtw&s" group-title="Kids Vip",Life Kids
-http://rechahd.xyz:80/live/443432469215731/4362020837/301557.ts
 
 #EXTINF:-1 tvg-logo="https://karwan.tv/wp-content/uploads/spi-kids.png" group-title="Kids Vip",Spi Kids
 https://live20.bozztv.com/giatv/giatv-spikids4k2025/spikids4k2025/chunks.m3u8
 
-#EXTINF:-1 "tvg-logo="https://firstbradenton.com/wp-content/uploads/2017/12/Artboard-1300-px.png"group-title="Kids Vip",First Kids
-http://rechahd.xyz:80/live/443432469215731/4362020837/805757.ts
 
 #EXTINF:-1 tvg-logo="https://cdn-images.dzcdn.net/images/cover/be9b1a7029eaa6b0ae51e5eac2e9aa93/0x1900-000000-80-0-0.jpg" group-title="Kids Vip", AFARIN Kids
 http://afarintv2.flashmediacast.com:1935/afarinTV/livestream/hawezhd.m3u8
@@ -400,12 +297,8 @@ https://live.kwikmotion.com/waarmedialive/waarmedia.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/P_bzcxCwZv7-sm5NYVRxo6RMbAEP4AjQSSsAfzOOySY4O1WmyRtDK87Ga31LW-6lGRvgyER1=s900-c-k-c0x00ffffff-no-rj" group-title="Kurdish", TRT Kurdish
 https://tv-trtkurdi.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMuulS38X2YDPJy3F1jWYX-7VoS4ovnVCFcg&s" group-title="Sport VIP", Astera Sport
-http://2b2.xyz:8080/live/mousa214124/83113723002852/531818.ts
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDfqusandXmCJyiqP46t3ijeZARRe64k1nTA&s" group-title="Kurdish", Niga Movies
-http://streamcdn.us:8080/live/soraj/07504648083/29503.ts
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/61hDupY+lxL._UF1000,1000_QL80_.jpg" group-title="Kurdish", Sima Documentry
 http://royalibox.com/play/live.php?mac=00:1A:79:4B:99:EA&stream=312686&extension=ts&play_token=Mope2eKzot
@@ -423,9 +316,7 @@ http://app-plus.live:80/16352526000642176872/zidqkkxi25wqac17b5qe/689904
 https://playlist.fasttvcdn.com/pl/ptllxjd03j6g9oxxjdfapg/roya-kids/playlist.m3u8?st=w1BAp3H3sNl-Qg7Kl5LkQg&amp;e=1752951034
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQEKpBPlrj6IvA8_wvo4hIk0Iq_qigWXe54A&s" group-title="Kurdish", Infnity HD
 https://cdn.karwan.tv/infinity-tv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="Kurdish" group-title="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZ4i_gTxNFM9kiMfWq7nK8dCdxgyTXedmk6Q&s", befrintv
-http://142.132.133.190:1935/live/befrintv/index.m3u8
-#EXTINF:-1 tvg-logo="http://widget.ottplayer.tv/upictures/39ad0db4-efd7-432b-b325-a6393c8dbf2c.png" group-title="Kids Vip", AFARIN Radio
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1NY2qIJUD4dWuY-QE2oHBDRTR-botIvk_3g&s" group-title="Kids Vip", AFARIN Radio
 http://afarintv2.flashmediacast.com:1935/afarinTV/d1/livestream/HawezHD.m3u8
 #EXTINF:-1 tvg-logo="http://widget.ottplayer.tv/upictures/76af16d4-6156-4ae6-a50b-ecf5b9a82333.png" group-title="Kurdish", Soz HD
 https://live20.bozztv.com/giatv/giatv-sozetvq/sozetvq/chunks.m3u8
@@ -461,65 +352,47 @@ http://streamcdn.us:8080/live/98778676754/88526902544/141661.ts
 http://streamcdn.us:8080/live/98778676754/88526902544/141629.ts
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/9dUpchJf0l9rPkhLxsDgokNPNvzdkBPFpJ9xbYZ9jc635fYvL3O7XsHcmmKaTSKkMXVJTsFlTg=s900-c-k-c0x00ffffff-no-rj" group-title="Kurdish", RozjHalat
 https://hlspackager.akamaized.net/live/DB/ROJHELAT/HLS/ROJHELAT-avc1_2500000=10002,mp4a_128000=20000.m3u8
-#EXTINF:-1 tvg-logo="Kurdish" group-title="Kurdish", Qalam GeoGraphic
+#EXTINF:-1 tvg-logo="https://qallam.net/media/043a4c61-b057-4ccb-9585-bec6d02b7ee0%D8%AA%D9%88%DB%8C%DA%86%20%D8%AC%D9%88%DA%AF%D8%B1%D8%A7%D9%81%DB%8C.png" group-title="Kurdish", Qalam GeoGraphic
 http://st1activ.com:80/tarek50/hyfhdyier/429805
-#EXTINF:-1 tvg-logo="https://mixmedia.tv/wp-content/uploads/2020/06/Astera-show.jpg" group-title="Kurdish", Astera Show
-http://sansat.co:88/live/6407f699f50b/KEIO5VDEKZ/190025.ts
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/rxdRh5aX5maFJ5L57Bq8qaxNFAdFJ-xjXR8jndZPSWouzqzeIMdtO7uuSRLCwwB1F-JxfUXf=s900-c-k-c0x00ffffff-no-rj" group-title="Kurdish", Nuber +
 http://stream.nubar.tv:1935/private/NUBARPlus/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsCkaun0MCcKSyV1wbF7ypFE60p9PaSrC4yw&s" group-title="Sport VIP", LD sport 1
 http://weaseltv.live/play/live.php?mac=00:1A:79:B5:9B:13&stream=695249&extension=ts&play_token=t7goazCcHw
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/5WKKnGo28E118iIpArHz932R5A4wPgT5bfoZztp2m7fWMUaws4zZay3PHRjOx1NzGHMElG-d=s900-c-k-c0x00ffffff-no-rj" group-title="Kurdish", Fryad Movies
-http://iview.is:2095/745372948748/609531094267/496017
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRp9xb2BPE4Cc5dYh6T0Xz-fd1JLbupJT5LrA&s" group-title="Kurdish", Kurdana
 http://streamcdn.us:8080/live/98778676754/88526902544/147422.ts
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUEp5o2AokDBD4Dm4Cf7Dy4GIfWnMd8_9bUkYk1t0ftFUG7JvNEAm0rja3wEXxMoN3x0A&usqp=CAU" group-title="Kurdish", Peshmarga
-http://142.132.133.190:1935/live/peshmerge/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIHkMs53KPJZRberBTYnMxcLFPFiZ5aP-ZPQ&s" group-title="Kurdish", DTV HD
 http://st1activ.com:80/tarek50/hyfhdyier/429712
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/hnS_pU3jkYVl_Kr9CXY5s77ugmZO4oVKnMZkxziWpyE25NudM0q5dwZorCQ_iSSL2wlDV4-KbQ=s900-c-k-c0x00ffffff-no-rj" group-title="Kurdish", Dimen HD
 http://streamcdn.us:8080/live/98778676754/88526902544/141654.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdvls9ZuZKip6qfBgHGE6S5s6CJNKlo-wM2g&s" group-title="Kurdish", Ranya HD
 http://st1activ.com:80/tarek50/hyfhdyier/429809
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFyiZ-y5m5BemyqfwDIRdlo3OIS0Asc-IsSQ&s" group-title="Kurdish", Naqshi Midea
-http://naqshi-media.com:1935/live/NaqshiMedia/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFyiZ-y5m5BemyqfwDIRdlo3OIS0Asc-IsSQ&s" group-title="Kurdish", MTV Family
 http://st1activ.com:80/tarek50/hyfhdyier/429779
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Atv_logo_2010.svg/1200px-Atv_logo_2010.svg.png" group-title="Kurdish", Atv Kurd
-http://superintendent.whatevergos.com:2095/1287598268558/iPy331PAM5/28027
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw8HCPhcQDzF0XJjJefENbldF7-vr19T6QBQ&s" group-title="Kurdish", Niroj
-http://142.132.133.190:1935/live/Niroj_HD/HawezHD.m3u8
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYWIlVMhJFEXNiwsVCJ21mnLFs_CE80Hh6OQ&s" group-title="Kurdish", Jammawar
 http://st1activ.com:80/tarek50/hyfhdyier/429691
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHsk7oOwV9S-DEJTkMbLvE9R52vKpWF2xzGQ&s" group-title="Kurdish", ZAXO
-http://superintendent.whatevergos.com:2095/1287598268558/iPy331PAM5/162751
 #EXTINF:-1 tvg-logo="https://karwan.tv/wp-content/uploads/spi-quran.png" group-title="Kurdish", Spi 4K
 https://live20.bozztv.com/giatv/giatv-spitv4k_kamalblbas/spitv4k_kamalblbas/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlMgARl1MPPdmoEXH62KIa226ZV2cHWiILXg&s" group-title="Kurdish", Reng Documentray
 http://streamcdn.us:8080/live/98778676754/88526902544/148619.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYdk4Q93XUcApRp9f9er0PYcMXdb986_vWdw&s" group-title="Kurdish", Jin HD
 https://live.jintv.org/medialive/jintv.m3u8
-#EXTINF:-1 tvg-logo="Kurdish" group-title="Kurdish", Streak HD
+#EXTINF:-1 tvg-logo="https://kurditv.com/wp-content/uploads/2022/06/sterk-tv.jpg.webp" group-title="Kurdish", Streak HD
 https://5dab1db4b25fe.streamlock.net/sterk/sterktv/playlist.m3u8
-#EXTINF:-1 tvg-logo="Kurdish" group-title="Sport Vip", Duhok Sport
-http://dream4ktv.net/play/live.php?mac=00:1A:79:34:65:29&stream=129834&extension=ts
-
-#EXTINF:-1 tvg-logo="Kurdish" group-title="Sport VIP", NRT SPORT FHD
+#EXTINF:-1 tvg-logo="https://imgs.search.brave.com/JyEZKbQMbeQIRzMkJivvmaQ4nh1EkZvhvzPgTc7apOw/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9rYXJ3/YW4udHYvd3AtY29u/dGVudC91cGxvYWRz/L25ydC1zcG9ydC5w/bmc" group-title="Sport VIP", NRT SPORT FHD
 https://live20.bozztv.com/giatv/giatv-NRT-SPORT/NRT-SPORT/chunks.m3u8
 
 
-#EXTINF:-1 tvg-logo="Kurdish" group-title="Kids Vip", Dasnaya Kids
-http://2b2.xyz:8080/live/mousa214124/83113723002852/531907.ts
 
 
-#EXTINF:-1 tvg-name="DASINYA MUSIC " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJZly8lLDsUcLOuZny7gONgtDuq6U8EOUzDw&s" group-title="General"
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJZly8lLDsUcLOuZny7gONgtDuq6U8EOUzDw&s" group-title="Kurdish", Dasniya Music
 http://fuego-iptv.net/play/live.php?mac=00:1A:79:4E:54:58&stream=312578&extension=ts
 
-#EXTINF:-1 tvg-name="RANYA CITY " tvg-logo="https://lh3.googleusercontent.com/pw/AP1GczM9h9RJcp6VlOkJfriGH4p-bTvINQWX08Ioo9cPcx4lQHA4e3gOrUdUf-5i-O_tLZbyhNZSJujqID941eAhYzmMK42w98dWvZGu-KxdYhCC11i3MEY=w69-h72-no" group-title="General"
+#EXTINF:-1 tvg-logo="https://www.elahmad.com/tv/mobiletv/images/i_news.jpg?v=7" group-title="Kurdish", Ranya City
 https://avr.host247.net/Ranya/RanyaCity/playlist.m3u8
-
-#EXTINF:-1 tvg-name="NATIONAL GEOGRAPHIC ABU DHABI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGM7yCKhXbdABalyfluseR1z3OgWmVVTgjHA&s" group-title="DOCUMENTARY "
-https://vo-live.cdb.cdn.orange.com/Content/Channel/NationalGeographicHDChannel/HLS/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.elahmad.com/tv/mobiletv/images/i_news.jpg?v=7" group-title="Arabic", INEWS HD
 https://live.i-news.tv/hls/1/stream.m3u8
@@ -527,72 +400,15 @@ https://live.i-news.tv/hls/1/stream.m3u8
 #EXTINF:-1 tvg-logo="https://www.elahmad.com/tv/mobiletv/images/dijlah.jpg?v=7" group-title="Arabic", Dijla HD
 https://ghaasiflu.online/Dijlah/tracks-v1a1/mono.m3u8?v=5f9f59e5
 
-#EXTINF:-1 tvg-logo="Kurdish" group-title="Sport", Abu Dhabi Sport HD
-https://vo-live-media.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/HLS/index.m3u8
-#EXTINF:-1 tvg-logo="Kurdish" group-title="Sport", Abu Dhabi Sport 2 HD
-https://vo-live-media.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel2/HLS/index.m3u8
-#EXTINF:-1 tvg-logo="Kurdish" group-title="Kurdish", UTV HAWLER
-https://vsd123.okcdn.ru/hls/3527542770279.m3u8/sig/O7-Y3eHXWcQ/expires/1763038417396/srcIp/95.159.95.95/urls/45.136.21.59/clientType/0/srcAg/CHROME/mid/4728653618791/3527542770279_high/index.m3u8
-#EXTINF:-1 tvg-logo="Kurdish" group-title="Kurdish", Dasnya Sport
-http://sansat.co:88/6407f699f50b/KEIO5VDEKZ/189951
-
-#EXTINF:-1 tvg-logo="Kurdish" group-title="Kurdish", Helhelok
-http://sansat.co:88/6407f699f50b/KEIO5VDEKZ/189959
-#EXTINF:-1 tvg-logo="Kurdish" group-title="Kurdish", ASMAN
-http://sansat.co:88/6407f699f50b/KEIO5VDEKZ/189965
-#EXTINF:-1 tvg-logo="Kurdish" group-title="Kurdish", SAHAR Kurdi
-http://sansat.co:88/6407f699f50b/KEIO5VDEKZ/189979
-#EXTINF:-1 tvg-logo="Kurdish" group-title="Kurdish",AZHIN
-http://sansat.co:88/6407f699f50b/KEIO5VDEKZ/190007
-#EXTINF:-1 tvg-logo="Kurdish" group-title="Kurdish",Reng 
-http://tv.magnumott.online/live/11767X3/1Z81JML/1034762.ts
-#EXTINF:-1 tvg-logo="Kurdish" group-title="Kurdish",Shaista 
-http://sansat.co:88/6407f699f50b/KEIO5VDEKZ/190047
-#EXTINF:-1 tvg-logo="Kurdish" group-title="Kurdish",Iraqia Kurdish 
-http://sansat.co:88/6407f699f50b/KEIO5VDEKZ/190053
-
-
-#EXTINF:-1 tvg-logo="Kurdish" group-title="Kurdish", quran peshawa
+#EXTINF:-1 tvg-logo="https://imgs.search.brave.com/3kkFT8YsxGAB4g-e4VN1l7-HR_IJr1bYpp-0jE7hrgA/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9wbGF5/LWxoLmdvb2dsZXVz/ZXJjb250ZW50LmNv/bS9TSVVnRHFMcDhG/OUdBdHdNUllYRjNy/Umpud2JIblN1SDFv/VlVpcXVweG92cWtE/Q1RsbWFWMHEtZmo1/a0pBdTZHckNZPXcy/NDAtaDQ4MC1ydw" group-title="Kurdish", quran peshawa
 http://164.215.98.132:2082/05312993875/52G826825G/71444
-#EXTINF:-1 tvg-logo="Kurdish" group-title="Kurdish", KurdMax Show
-http://tv.magnumott.online/live/11767X3/1Z81JML/1034786.ts
-#EXTINF:-1 tvg-logo="Kurdish" group-title="Kurdish", Reng Doc
-http://tv.magnumott.online/live/11767X3/1Z81JML/1034763.ts
-#EXTINF:-1 tvg-logo="Kurdish" group-title="Kurdish", Derin HD
-http://tv.magnumott.online/live/11767X3/1Z81JML/301560.ts
-#EXTINF:-1 tvg-logo="Kurdish" group-title="Kurdish", Qalam
-http://tv.magnumott.online/live/11767X3/1Z81JML/806005.ts
-#EXTINF:-1 tvg-logo="Kurdish" group-title="Kurdish", Znar
-http://tv.magnumott.online/live/11767X3/1Z81JML/806002.ts
-#EXTINF:-1 tvg-logo="Kurdish" group-title="Kurdish", Sima Doc
-http://tv.magnumott.online/live/11767X3/1Z81JML/805993.ts
-#EXTINF:-1 tvg-logo="Kurdish" group-title="Kurdish", Soran Entertaimnet
-http://tv.magnumott.online/live/11767X3/1Z81JML/805767.ts
-#EXTINF:-1 tvg-logo="Kurdish" group-title="Kurdish", Delel HD
-http://tv.magnumott.online/live/11767X3/1Z81JML/805755.ts
-#EXTINF:-1 tvg-logo="Kurdish" group-title="Kurdish", Chihan HD
-http://tv.magnumott.online/live/11767X3/1Z81JML/771661.ts
-#EXTINF:-1 tvg-logo="Kurdish" group-title="Kurdish", Pshdar HD
-http://tv.magnumott.online/live/11767X3/1Z81JML/771657.ts
-#EXTINF:-1 tvg-logo="Kurdish" group-title="Kurdish", KurdMax Sprani
-http://tv.magnumott.online/live/11767X3/1Z81JML/54112.ts
-#EXTINF:-1 tvg-logo="Kurdish" group-title="Kurdish", Minara
-http://streamcdn.us:8080/live/soraj/07504648083/31274.ts
-#EXTINF:-1 tvg-logo="Kurdish" group-title="Kurdish", UTV Hawler
-http://afaer.okfsdo.xyz/live/Vent0207ZF/Atmtwmdff122/1230614.ts
-#EXTINF:-1 tvg-logo="Kurdish" group-title="Kurdish", Qalam Geographic
-http://141.98.115.53/live/111/111/1196.ts
-#EXTINF:-1 tvg-logo="Kurdish" group-title="Kurdish", Qalam HD
+#EXTINF:-1 tvg-logo="https://qallam.net/_next/image?url=https%3A%2F%2Fapp.qallam.net%2F%2Fmedia%2F4dafb58b-138b-4bb2-bbd8-4c4c56d96604%25D8%25AA%25D9%2588%25DB%258C%25DA%2586%2520%25D9%2582%25DB%2595%25DA%25B5%25DB%2595%25D9%2585.png&w=828&q=75" group-title="Kurdish", Qalam HD
 http://141.98.115.53/live/111/111/1197.ts
-#EXTINF:-1 tvg-logo="Kurdish" group-title="Kurdish", Xabir FM
+#EXTINF:-1 tvg-logo="https://imgs.search.brave.com/30MrMETpS8GLf7Ja0u58kldgxZr6K_CfNWCa5A9IPsI/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly95dDMu/Z29vZ2xldXNlcmNv/bnRlbnQuY29tL3l0/Yy9BSWRyb19udFpL/dU9Vc2dMVXJfZi1T/N0xVS3pDcllyX2JM/aEtqSVlwRkUzUmVj/NkNiN3c9czkwMC1j/LWstYzB4MDBmZmZm/ZmYtbm8tcmo" group-title="Kurdish", Xabir FM
 http://royalibox.com/play/live.php?mac=00:1A:79:4B:99:EA&stream=456279&extension=ts&play_token=CLoU7aEgQ1
-#EXTINF:-1 tvg-logo="Kurdish" group-title="Kurdish", Qalam Kids
-https://live20.bozztv.com/akamaissh101/ssh101/qallamkids/playlist.m3u8
-#EXTINF:-1 tvg-logo="Kurdish" group-title="Kurdish", Qalam Aini
-http://duab.xyz:80/0BVBLFTX6419WV7/WUmNVfPNee/806005
-#EXTINF:-1 tvg-logo="Kurdish" group-title="Kurdish", Family Raparin
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3y63mWL4/IMG-1880.png" group-title="Kurdish", Family Raparin
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:00:20:45&stream=1310904&extension=ts&play_token=AlmEBUQEIS
-#EXTINF:-1 tvg-logo="Kurdish" group-title="Kurdish", Reng Sport
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pr4gH3kS/reng.png" group-title="Kurdish", Reng Sport
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:00:20:45&stream=1310852&extension=ts&play_token=CVH0Z1i8zl
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FLYM0Nt6/IMG-1869.jpg" group-title="Kurdish", Astera Baby
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:00:20:45&stream=1310844&extension=ts&play_token=4L0Usg395E
