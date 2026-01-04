@@ -65,8 +65,24 @@ http://alpha6-tx.me:80/play/live.php?mac=00:1A:79:80:4B:12&stream=324596&extensi
 http://5tv.pro:80/play/live.php?mac=00:1A:79:B5:95:7B&stream=1858987&extension=ts&play_token=WK8f6yjCEj
 #EXTINF:-1 tvg-logo="http://widget.ottplayer.tv/upictures/0e258704-fca8-4a9f-a037-1ae83230e15c.png" group-title="Kurdish", Avar HD
 http://avrstream.com:1935/live/AvarTv/playlist.m3u8
-
+#EXTINF:-1 tvg-logo="" group-title="Bein 4K", Bein Sport News
+http://tayaar.xyz/live/ress550780vnvv/yvgcDbnb580/250335.ts
+#EXTINF:-1 tvg-logo="" group-title="Bein 4K", Bein Sport 1 4K
+http://tayaar.xyz/live/ress550780vnvv/yvgcDbnb580/214594.ts
+#EXTINF:-1 tvg-logo="" group-title="Bein 4K", Bein Sport 3 4K
+http://tayaar.xyz/live/ress550780vnvv/yvgcDbnb580/214592.ts
+#EXTINF:-1 tvg-logo="" group-title="Bein 4K", Bein Sport 4 4K
+http://tayaar.xyz/live/ress550780vnvv/yvgcDbnb580/214591.ts
+#EXTINF:-1 tvg-logo="" group-title="Bein 4K", Bein Sport 5 4K
+http://tayaar.xyz/live/ress550780vnvv/yvgcDbnb580/214590.ts
+#EXTINF:-1 tvg-logo="" group-title="Bein 4K", Bein Sport 6 4K
+http://tayaar.xyz/live/ress550780vnvv/yvgcDbnb580/214589.ts
+#EXTINF:-1 tvg-logo="" group-title="Bein 4K", Bein Sport 7 4K
+http://tayaar.xyz/live/ress550780vnvv/yvgcDbnb580/214588.ts
+#EXTINF:-1 tvg-logo="" group-title="Bein 4K", Bein Sport 8 4K
+http://tayaar.xyz/live/ress550780vnvv/yvgcDbnb580/214587.ts
 #EXTINF:-1 tvg-logo="Kurdish" group-title="Kurdish", Babuly
+
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:00:20:45&stream=202070&extension=ts&play_token=vUIHx9GDRG
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/Q006vSAQuNmRct1UccvM9_HyvyJuefyzgijLWQC0KhbXW1MSPsrsRthkloBXd5hUWExSGlY_vQ=s900-c-k-c0x00ffffff-no-rj" group-title="Kurdish", BANGAWAZ BADINI
 http://5tv.pro:80/play/live.php?mac=00:1A:79:B5:95:7B&stream=1859019&extension=ts&play_token=awJwNqhhSU
