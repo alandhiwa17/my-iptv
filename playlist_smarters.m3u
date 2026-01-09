@@ -396,10 +396,6 @@ http://avrstream.com:1935/live/SHARTV/playlist.m3u8
 http://rawshan.ddns.net:1935/live/rawshantv/chunklist_w1806121978.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJAH473VSxonn1Yt7amYpcw6qH8i3DOs_RQQ&s" group-title="Kurdish", SHNA TV HD
 http://shnatv.ddns.net:1935/live/shnatv/media_w2050914671_1703.m3u8
-#EXTINF:-1 tvg-logo="https://ih1.redbubble.net/image.1537432242.4989/ur group-title="Sport VIP",Sima Sport HD
-http://new.tryv24.shop:80/Nboxtv_857858/KsAKkuKx/312686
-#EXTINF:-1 tvg-logo="http://widget.ottplayer.tv/upictures/7cbc40c8-f51c-46aa-a117-84c9fea7c936.png" group-title="Arabic", Sky News
-https://stream.skynewsarabia.com/hls/sna_720.m3u8
 #EXTINF:-1 tvg-logo="http://widget.ottplayer.tv/pictures/21316.png" group-title="Sport VIP", Sky Sport 
 #http://a4d2f927.amazzin.pw/iptv/LN73B6Q5U2R39M/9289/index.m3u8
 #EXTINF:-1 tvg-logo="http://widget.ottplayer.tv/pictures/21328.png" group-title="Sport VIP", Sky Sport Premier League
@@ -420,16 +416,6 @@ https://live20.bozztv.com/giatv/giatv-sozetvq/sozetvq/chunks.m3u8
 https://live20.bozztv.com/giatv/giatv-sozetv/sozetv/chunks.m3u8
 #EXTINF:-1 tvg-logo="Kurdish" group-title="Kurdish", Speda Drama
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:00:20:45&stream=1310817&extension=ts&play_token=46nbr6Kwgl
-#EXTINF:-1 tvg-logo="https://karwan.tv/wp-content/uploads/spi-quran.png" group-title="Kurdish", Spi 4K
-https://live20.bozztv.com/giatv/giatv-spitv4k_kamalblbas/spitv4k_kamalblbas/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://karwan.tv/wp-content/uploads/spi-kids.png" group-title="Kids Vip",Spi Kids
-https://live20.bozztv.com/giatv/giatv-spikids4k2025/spikids4k2025/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gLTsJCsY/IMG-1802.jpg" group-title="Kurdish", Spi Quran
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:79:AA:08&stream=1310838&extension=ts&play_token=6oLTmHIU10
-#EXTINF:-1 tvg-logo="http://widget.ottplayer.tv/upictures/667698ea-4395-4968-99c0-520288074e8b.png" group-title="Kurdish", spitv4k
-https://live20.bozztv.com/giatv/giatv-spitv4k_kamalblbas/spitv4k_kamalblbas/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/chynV5s0/IMG-1798.jpg" group-title="Kurdish", Srusht
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:79:AA:08&stream=1310824&extension=ts&play_token=YDqfjGrmzG
 #EXTINF:-1 tvg-logo="https://kurditv.com/wp-content/uploads/2022/06/sterk-tv.jpg.webp" group-title="Kurdish", Streak HD
 https://5dab1db4b25fe.streamlock.net/sterk/sterktv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlAkOSmRvamQYWPv_p3MOOD3PIn35XxBVKdMZJyxOy2c4qMqJxD7bPzP0&s=10" group-title="Kurdish", Speda HD
@@ -442,8 +428,6 @@ https://tv-trtarabi.medya.trt.com.tr/master_1080.m3u8
 https://tv-trtkurdi.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlLjhhX4s0uBP0v4nz6GiEozc6OKrYbYvyoQ&s" group-title="Kurdish", UTV Hawler
 http://alpha6-tx.me:80/play/live.php?mac=00:1A:79:80:4B:12&stream=1858958&extension=ts&play_token=9CDQlUFTUm
-#EXTINF:-1 tvg-logo="Kurdish" group-title="Kurdish", Van 1
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:0D:A0:18&stream=695249&extension=ts&play_token=zVQjKhdPLS
 #EXTINF:-1 tvg-logo="http://widget.ottplayer.tv/pictures/1181.png" group-title="Sport VIP", Varzsh HD
 https://live.teleradiocom.tj/5/3m.m3u8
 #EXTINF:-1 tvg-logo="https://karwan.tv/blog/wp-content/uploads/waar.jpg" group-title="Kurdish", Waar HD
@@ -452,8 +436,6 @@ https://live.kwikmotion.com/waarmedialive/waarmedia.smil/playlist.m3u8
 http://stream.welattv.net:1935/welat/tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5B9oM14aJWsr11m_qRsRDIGArp_nqVJuSPA&s" group-title="Kurdish", Wild Earth
 https://wildearth-plex.amagi.tv/masterR1080p.m3u8
-#EXTINF:-1 tvg-logo="https://imgs.search.brave.com/30MrMETpS8GLf7Ja0u58kldgxZr6K_CfNWCa5A9IPsI/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly95dDMu/Z29vZ2xldXNlcmNv/bnRlbnQuY29tL3l0/Yy9BSWRyb19udFpL/dU9Vc2dMVXJfZi1T/N0xVS3pDcllyX2JM/aEtqSVlwRkUzUmVj/NkNiN3c9czkwMC1j/LWstYzB4MDBmZmZm/ZmYtbm8tcmo" group-title="Kurdish", Xabir FM
-http://royalibox.com/play/live.php?mac=00:1A:79:4B:99:EA&stream=456279&extension=ts&play_token=CLoU7aEgQ1
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKBdtC_5FBhltErC3Judk-fFue3X-s2y39mg&s" group-title="Kids Vip", ZAROK
 https://zindikurmanci.zaroktv.com.tr/hls/0/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xSCTrpf1/IMG-1795.jpg" group-title="Kurdish", Zarok Sorani
@@ -465,7 +447,7 @@ http://alpha6-tx.me:80/play/live.php?mac=00:1A:79:80:4B:12&stream=987967&extensi
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsY26BVTDArWAZFBv9RzTAFEXHEPwWxzP4gg&s" group-title="Kurdish", Zaxo 4k
 http://alpha6-tx.me:80/play/live.php?mac=00:1A:79:80:4B:12&stream=987958&extension=ts&play_token=NAX6vAAMk5
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lPW9ZzBYGMmaMGPE_z_OdQ1FRcjue8whEZM6V15zgEc_w=s900-c-k-c0x00ffffff-no-rj" group-title="Kurdish", Zed +
-https://cdn.karwan.tv/zed-tv-plus/tracks-v1a1/mono.m3u8
+http://109.123.245.192/Zedplus/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://karwan.tv/wp-content/uploads/2021/09/zagros-tv-640x360.jpg" group-title="Kurdish", Zagroz HD
 http://aquablue.boats:80/play/live.php?mac=00:1A:79:AF:6D:AD&stream=638743&extension=ts&play_token=dorVQ0eAtJ
 
