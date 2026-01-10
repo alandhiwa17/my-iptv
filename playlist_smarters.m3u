@@ -80,7 +80,6 @@ http://23232.top:80/play/live.php?mac=00:1A:79:00:01:3E&stream=1806576&extension
 #EXTINF:-1 tvg-logo="https://www.universfreebox.com/wp-content/uploads/2022/11/beinsport4k.jpg" group-title="Bein 4K", Bein Sport 8 4K
 http://23232.top:80/play/live.php?mac=00:1A:79:00:01:3E&stream=1806574&extension=ts&play_token=JozaHli0xk
 #EXTINF:-1 tvg-logo="" group-title="Kurdish", Babuly
-
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:00:20:45&stream=202070&extension=ts&play_token=vUIHx9GDRG
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/Q006vSAQuNmRct1UccvM9_HyvyJuefyzgijLWQC0KhbXW1MSPsrsRthkloBXd5hUWExSGlY_vQ=s900-c-k-c0x00ffffff-no-rj" group-title="Kurdish", BANGAWAZ BADINI
 http://5tv.pro:80/play/live.php?mac=00:1A:79:B5:95:7B&stream=1859019&extension=ts&play_token=awJwNqhhSU
@@ -310,14 +309,12 @@ https://dl23.mp4.ir/video/2025/8/321750-811074939/m3u8/1080p/out.m3u8
 https://dl23.mp4.ir/video/2025/8/321750-75206797/m3u8/720p/out.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPIf-RKAqntuWqGWxGAgYsM2L0NFjYhRlgPA&s" group-title="Kids Vip",Newmax Kids ᴴᴰ
 http://fuego-iptv.net/play/live.php?mac=00:1A:79:4E:54:58&stream=312652&extension=ts
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/sJgmn2rM/photo-2025-12-06-16-17-55.jpg" group-title="Kurdish", Newroz Family
 http://aabb.is:2095/play/live.php?mac=A0:BB:3E:9F:9D:D8&stream=1035241&extension=ts&play_token=QvFuwyxw7F
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FdyyXhL/Chat-GPT-Image-Dec-6-2025-04-12-41-PM.png" group-title="Kurdish", Next Kids
 http://aabb.is:2095/play/live.php?mac=A0:BB:3E:9F:9D:D8&stream=1035275&extension=ts&play_token=7mHZVUbT3U
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/yN0ApyytrbJyjFeYlapnLHB8trK9omYwYXVrqEmcHEmu4ttGAesy-XiboEDRLQXbmQhJ7hyvBg=s900-c-k-c0x00ffffff-no-rj" group-title="Kids Vip",NIGA KIDS ᴴᴰ
 http://fuego-iptv.net/play/live.php?mac=00:1A:79:4E:54:58&stream=312657&extension=ts
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RkzcL5SZ/IMG-1862.jpg" group-title="Kurdish", Noor 4K
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:00:20:45&stream=380802&extension=ts&play_token=4hkIm3UA34
 #EXTINF:-1 tvg-logo="https://cdna.artstation.com/p/assets/videos/images/031/749/896/large/hasan-graphic-maxresdefault.jpg?1604495456" group-title="Kurdish", Nrt HD
