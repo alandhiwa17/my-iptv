@@ -35,10 +35,10 @@ https://live-hls-web-aja.getaj.net/AJA/02.m3u8
 https://live-hls-web-ajm.getaj.net/AJM/02.m3u8
 #EXTINF:-1 tvg-logo="http://widget.ottplayer.tv/upictures/841b75fe-9546-442f-8826-c7d856aaf9b1.png" group-title="Arabic", Al Sharqya Mews
 http://ns8.indexforce.com:1935/alsharqiyalive/mystream/chunklist_w1408895114.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxgYHgSM9PlIv0S7xSlYJ9vWacEfgEG3aVBQ&s" group-title="Sport VIP", ALWAN SPORT 2
-https://dl23.mp4.ir/video/2025/8/321750-942824039/m3u8/1080p/out.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Sport VIP", Falcon Eye
-https://dl23.mp4.ir/video/2025/8/321750-416020074/m3u8/1080p/out.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxgYHgSM9PlIv0S7xSlYJ9vWacEfgEG3aVBQ&s" group-title="Sport VIP", Ad Sport 1
+http://23232.top:80/play/live.php?mac=00:1A:79:00:01:3E&stream=1806613&extension=ts&play_token=jmUtbZC3dG
+#EXTINF:-1 tvg-logo="" group-title="Sport VIP", Ad Sport 2 
+https://http://23232.top:80/play/live.php?mac=00:1A:79:00:01:3E&stream=1806612&extension=ts&play_token=V8gHwjXztM
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnRXolslQHUe1Cz0H-NNlS6rpYP-Z62ym5kg&s" group-title="Kurdish", Asman HD
 http://alpha6-tx.me:80/play/live.php?mac=00:1A:79:80:4B:12&stream=1858954&extension=ts&play_token=bnYB4CrFqL
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUZ66BGS0AKkYYKYtiM1jIwRNEwe3fH_WmgA&s" group-title="Kurdish", Amozhgare
@@ -395,7 +395,7 @@ http://avrstream.com:1935/live/SHARTV/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://widget.ottplayer.tv/upictures/5aea944b-08ee-4bfd-a08f-5489130f36a1.png" group-title="Kurdish", Shna Quran
 http://rawshan.ddns.net:1935/live/rawshantv/chunklist_w1806121978.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJAH473VSxonn1Yt7amYpcw6qH8i3DOs_RQQ&s" group-title="Kurdish", SHNA TV HD
-http://shnatv.ddns.net:1935/live/shnatv/media_w2050914671_1703.m3u8
+http://23232.top:80/play/live.php?mac=00:1A:79:00:01:3E&stream=1858941&extension=ts&play_token=eXgRcYBDOo
 #EXTINF:-1 tvg-logo="http://widget.ottplayer.tv/pictures/21316.png" group-title="Sport VIP", Sky Sport 
 #http://a4d2f927.amazzin.pw/iptv/LN73B6Q5U2R39M/9289/index.m3u8
 #EXTINF:-1 tvg-logo="http://widget.ottplayer.tv/pictures/21328.png" group-title="Sport VIP", Sky Sport Premier League
